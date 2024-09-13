@@ -4,3 +4,7 @@ def example():
 
 if __name__ == "__main__":
     example()
+    def example():
+    print("This is a simple activity.")
+if __name__ == "__main__":
+    example()
