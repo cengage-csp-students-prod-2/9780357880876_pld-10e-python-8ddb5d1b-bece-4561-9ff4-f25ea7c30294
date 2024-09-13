@@ -1,0 +1,1 @@
+**Task 1**: Write the simulated `housekeeping()` function that contains the prompts and input statements to retrieve a year, a month, and a day from the user. Include the output statements in the simulated `endOfJob()` function.

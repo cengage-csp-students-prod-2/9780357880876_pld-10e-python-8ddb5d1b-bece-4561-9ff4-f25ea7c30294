@@ -1,0 +1,1 @@
+**Task 1:** Write the rest of the program using assignment statements, if statements, or if else statements as appropriate. There are comments in the code that tell you where you should write your statements.The output statements are written for you.

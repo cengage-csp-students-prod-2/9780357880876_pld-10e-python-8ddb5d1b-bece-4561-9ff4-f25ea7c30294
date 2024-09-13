@@ -1,0 +1,1 @@
+**Task 2**: In the loop body, use a nested `if` statement to decide when to print an asterisk and when to print a space. The output statements have been written, but you must decide when and where to use them.

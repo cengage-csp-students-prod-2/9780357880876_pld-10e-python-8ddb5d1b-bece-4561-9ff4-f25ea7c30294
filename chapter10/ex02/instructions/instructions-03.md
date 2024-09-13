@@ -1,0 +1,1 @@
+**Task 3**: Write an `accelerate` method. This method overrides the `accelerate` method inherited from the `Vehicle` class. Change the message in the accelerate method so the following is displayed when the `Motorcycle` tries to accelerate beyond its maximum speed: **”This motorcycle cannot go that fast”**.

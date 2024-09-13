@@ -1,0 +1,1 @@
+**Task 1**: Write a counter-controlled `while` loop that uses the loop control variable to take on the values 0 through 10. Remember to initialize the loop control variable before the program enters the loop.
