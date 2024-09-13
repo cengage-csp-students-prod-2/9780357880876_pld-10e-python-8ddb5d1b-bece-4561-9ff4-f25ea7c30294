@@ -1,18 +1,6 @@
 
-Status: FAILED!
-Reason: Unable to run example.py
-Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/example.py", line 8
-    print("This is a simple activity.")
-    ^
-IndentationError: expected an indented block after function definition on line 7
-
-Timestamp: 2024-09-13 22:14:17.552814
-
-Status: FAILED!
-Reason: Unable to run example.py
-Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/example.py", line 8
-    print("This is a simple activity.")
-    ^
-IndentationError: expected an indented block after function definition on line 7
-
-Timestamp: 2024-09-13 22:14:17.552901
+Status: PASSED!
+Check: 1
+Test: The program displayed the correct message.
+Reason: The program displayed the correct message.None
+Timestamp: 2024-09-13 22:18:04.844540
