@@ -1,2 +1,2 @@
-# Write your code here
-print("I am learning how to program.")
+print("I'm learning how to program in Python.")
+print("I'm That's awesome!.")
