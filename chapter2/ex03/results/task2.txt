@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 2 dependents.
 Reason: The dependent deductions of $62.5 was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.306789
+Timestamp: 2024-10-14 22:08:28.008679
 
 Status: PASSED!
 Check: 2
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 4 dependents.
 Reason: The dependent deductions of $125 was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.323699
+Timestamp: 2024-10-14 22:08:28.024929
 
 Status: PASSED!
 Check: 3
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $4250.75 salary for 3 dependents.
 Reason: The dependent deductions of $326.306 was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.341165
+Timestamp: 2024-10-14 22:08:28.041495
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 22:06:58.341528
+Timestamp: 2024-10-14 22:08:28.041724

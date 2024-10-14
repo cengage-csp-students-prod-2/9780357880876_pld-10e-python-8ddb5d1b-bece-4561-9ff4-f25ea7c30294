@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Calculate total withholding for a salary of $1250.00
 Reason: The total withholding of $431.25 was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.359565
+Timestamp: 2024-10-14 22:08:28.063295
 
 Status: PASSED!
 Check: 2
 Test: Calculate total withholding for a salary of $1500.00
 Reason: The total withholding of $517.5 was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.376740
+Timestamp: 2024-10-14 22:08:28.088877
 
 Status: PASSED!
 Check: 3
 Test: Calculate total withholding for a salary of $2000.00
 Reason: The total withholding of $690was found in the program's output.None
-Timestamp: 2024-10-14 22:06:58.393784
+Timestamp: 2024-10-14 22:08:28.113336
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 22:06:58.394022
+Timestamp: 2024-10-14 22:08:28.113628
