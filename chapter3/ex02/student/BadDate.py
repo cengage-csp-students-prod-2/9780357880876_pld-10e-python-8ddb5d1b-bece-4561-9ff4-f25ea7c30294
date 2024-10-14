@@ -1,28 +1,39 @@
-"""Program Name: BadDate.py
-Function: This program determines if a date entered by the user is valid.
-Input:  Interactive
-Output: Valid date is printed or user is alerted that an invalid date was entered.
-"""
-# Declare variables
-valid_date = True
-min_year, min_month, max_month, min_day, max_day = 0, 1, 12, 1, 31
+def housekeeping():
+    # Retrieve year, month, and day from the user
+    year = int(input("Enter year: "))
+    month = int(input("Enter month: "))
+    day = int(input("Enter day: "))
+    return year, month, day
 
-# This is the work of the housekeeping() method
-# Get the year, then the month, then the day
+def endOfJob(month, day, year, is_valid):
+    # Output whether the date is valid or invalid
+    if is_valid:
+        print(f"{month}/{day}/{year} is a valid date.")
+    else:
+        print(f"{month}/{day}/{year} is an invalid date.")
 
+def is_valid_date(year, month, day):
+    # Check if the year, month, and day are valid
+    if year <= 0:
+        return False
+    if month < 1 or month > 12:
+        return False
+    if day < 1 or day > 31:
+        return False
+    # Additional validation for specific months
+    if month in [4, 6, 9, 11] and day > 30:
+        return False
+    if month == 2:
+        # Check for leap years for February
+        if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+            if day > 29:
+                return False
+        else:
+            if day > 28:
+                return False
+    return True
 
-# Convert Strings to integers
-
-
-# This is the work of the detailLoop() method
-# Check to be sure date is valid
-
-
-# This is the work of the endOfJob() method
-# Test to see if date is valid and output date and whether it is valid or not
-if valid_date:
-   # Output statement
-   print(month, "/", day, "/", year, " is a valid date")
-else:
-   # Output statement
-   print(month, "/", day, "/", year, " is an invalid date")
+# Main program execution
+year, month, day = housekeeping()
+valid = is_valid_date(year, month, day)
+endOfJob(month, day, year, valid)
