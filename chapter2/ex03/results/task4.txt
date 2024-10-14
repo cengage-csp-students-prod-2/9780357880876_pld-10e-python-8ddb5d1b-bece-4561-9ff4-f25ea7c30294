@@ -11,7 +11,7 @@ Salary: $1250.00
 Take-Home Pay: $756.25
 .
 Error : AssertionError - Unable to find a number close enough to 881.25 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:57:52.681885
+Timestamp: 2024-10-14 22:02:06.153256
 
 Status: FAILED!
 Check: 2
@@ -25,7 +25,7 @@ Salary: $1500.00
 Take-Home Pay: $907.50
 
 Error : AssertionError - Unable to find a number close enough to 1057.50 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:57:52.699341
+Timestamp: 2024-10-14 22:02:06.172805
 
 Status: FAILED!
 Check: 3
@@ -39,10 +39,10 @@ Salary: $2000.00
 Take-Home Pay: $1210.00
 
 Error : AssertionError - Unable to find a number close enough to 1410.00 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:57:52.715859
+Timestamp: 2024-10-14 22:02:06.189217
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 21:57:52.716212
+Timestamp: 2024-10-14 22:02:06.189533
