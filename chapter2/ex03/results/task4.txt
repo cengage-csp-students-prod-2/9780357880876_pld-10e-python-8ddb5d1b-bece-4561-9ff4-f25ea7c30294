@@ -1,48 +1,24 @@
 
 Status: FAILED!
-Check: 1
-Test: Calculate take-home pay for a salary of $1250.00
-Reason: Unable to find '['881.25']' in the program's output.
-State Tax: $81.25
-Federal Tax: $350.00
-Dependent Deduction: $62.50
-Total Withholding: $493.75
-Salary: $1250.00
-Take-Home Pay: $756.25
-.
-Error : AssertionError - Unable to find a number close enough to 881.25 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 22:02:06.153256
+Reason: Unable to run Payroll.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 1
+    Declare and initialize the variables:double salary = 1250.00;int numDependents = 2;double stateTax, federalTax, dependentDeduction, totalWithholding, takeHomePay;
+                           ^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-14 22:04:31.880089
 
 Status: FAILED!
-Check: 2
-Test: Calculate take-home pay for a salary of $1500.00
-Reason: Unable to find '1057.50' in the program's output.
-State Tax: $97.50
-Federal Tax: $420.00
-Dependent Deduction: $75.00
-Total Withholding: $592.50
-Salary: $1500.00
-Take-Home Pay: $907.50
+Reason: Unable to run Payroll.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 1
+    Declare and initialize the variables:double salary = 1250.00;int numDependents = 2;double stateTax, federalTax, dependentDeduction, totalWithholding, takeHomePay;
+                           ^^^
+SyntaxError: invalid syntax
 
-Error : AssertionError - Unable to find a number close enough to 1057.50 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 22:02:06.172805
-
-Status: FAILED!
-Check: 3
-Test: Calculate take-home pay for a salary of $2000.00
-Reason: Unable to find '1410.00' in the program's output.
-State Tax: $130.00
-Federal Tax: $560.00
-Dependent Deduction: $100.00
-Total Withholding: $790.00
-Salary: $2000.00
-Take-Home Pay: $1210.00
-
-Error : AssertionError - Unable to find a number close enough to 1410.00 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 22:02:06.189217
+Timestamp: 2024-10-14 22:04:31.880204
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 22:02:06.189533
+Timestamp: 2024-10-14 22:04:31.880907
