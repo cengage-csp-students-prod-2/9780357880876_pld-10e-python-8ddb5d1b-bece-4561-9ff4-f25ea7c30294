@@ -3,43 +3,46 @@ Status: FAILED!
 Check: 1
 Test: Calculate take-home pay for a salary of $1250.00
 Reason: Unable to find '['881.25']' in the program's output.
-State Tax: $62.50
-Federal Tax: $125.00
-Dependents Deduction: $200.00
+State Tax: $81.25
+Federal Tax: $350.00
+Dependent Deduction: $62.50
+Total Withholding: $493.75
 Salary: $1250.00
-Take-Home Pay: $1262.50
+Take-Home Pay: $756.25
 .
 Error : AssertionError - Unable to find a number close enough to 881.25 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:38.099356
+Timestamp: 2024-10-14 21:57:52.681885
 
 Status: FAILED!
 Check: 2
 Test: Calculate take-home pay for a salary of $1500.00
 Reason: Unable to find '1057.50' in the program's output.
-State Tax: $75.00
-Federal Tax: $150.00
-Dependents Deduction: $200.00
+State Tax: $97.50
+Federal Tax: $420.00
+Dependent Deduction: $75.00
+Total Withholding: $592.50
 Salary: $1500.00
-Take-Home Pay: $1475.00
+Take-Home Pay: $907.50
 
 Error : AssertionError - Unable to find a number close enough to 1057.50 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:38.116381
+Timestamp: 2024-10-14 21:57:52.699341
 
 Status: FAILED!
 Check: 3
 Test: Calculate take-home pay for a salary of $2000.00
 Reason: Unable to find '1410.00' in the program's output.
-State Tax: $100.00
-Federal Tax: $200.00
-Dependents Deduction: $200.00
+State Tax: $130.00
+Federal Tax: $560.00
+Dependent Deduction: $100.00
+Total Withholding: $790.00
 Salary: $2000.00
-Take-Home Pay: $1900.00
+Take-Home Pay: $1210.00
 
 Error : AssertionError - Unable to find a number close enough to 1410.00 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:38.132400
+Timestamp: 2024-10-14 21:57:52.715859
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 21:53:38.132706
+Timestamp: 2024-10-14 21:57:52.716212

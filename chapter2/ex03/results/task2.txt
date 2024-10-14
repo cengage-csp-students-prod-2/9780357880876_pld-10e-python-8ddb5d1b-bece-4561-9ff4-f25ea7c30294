@@ -3,36 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 2 dependents.
 Reason: The dependent deductions of $62.5 was found in the program's output.None
-Timestamp: 2024-10-14 21:53:37.999799
+Timestamp: 2024-10-14 21:57:52.571643
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 4 dependents.
-Reason: '62.5' should not be in the program's output.
-State Tax: $62.50
-Federal Tax: $125.00
-Dependents Deduction: $400.00
-Salary: $1250.00
-Take-Home Pay: $1462.50
+Reason: The dependent deductions of $125 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.596495
 
-Error : AssertionError - Found '62.5' in the program's output.
-Timestamp: 2024-10-14 21:53:38.016675
-
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $4250.75 salary for 3 dependents.
-Reason: Unable to find '326.31' in the program's output.
-State Tax: $217.54
-Federal Tax: $435.08
-Dependents Deduction: $300.00
-Salary: $4350.75
-Take-Home Pay: $3998.14
-
-Error : AssertionError - Unable to find a number close enough to 326.31 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:38.033949
+Reason: The dependent deductions of $326.306 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.616363
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 21:53:38.034216
+Timestamp: 2024-10-14 21:57:52.616709

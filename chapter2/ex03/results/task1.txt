@@ -1,58 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Calculate state withholding tax at 6.5 percent.
-Reason: Unable to find '['81.25']' in the program's output.
-State Tax: $62.50
-Federal Tax: $125.00
-Dependents Deduction: $200.00
-Salary: $1250.00
-Take-Home Pay: $1262.50
-.
-Error : AssertionError - Unable to find a number close enough to 81.25 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:37.920184
+Reason: The state withholding tax of $81.25 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.506332
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Calculate federal withholding tax at 28.0.
-Reason: Unable to find '['350']' in the program's output.
-State Tax: $62.50
-Federal Tax: $125.00
-Dependents Deduction: $200.00
-Salary: $1250.00
-Take-Home Pay: $1262.50
-.
-Error : AssertionError - Unable to find a number close enough to 350 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:37.936154
+Reason: The federal withholding tax of $350 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.522013
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Calculate state withholding tax at 6.5 percent.
-Reason: Unable to find '299.58' in the program's output.
-State Tax: $230.44
-Federal Tax: $460.89
-Dependents Deduction: $200.00
-Salary: $4608.89
-Take-Home Pay: $4117.56
+Reason: The state withholding tax of 299.58 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.538538
 
-Error : AssertionError - Unable to find a number close enough to 299.58 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:37.952396
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Calculate state withholding tax at 6.5 percent.
-Reason: Unable to find '1290.49' in the program's output.
-State Tax: $230.44
-Federal Tax: $460.89
-Dependents Deduction: $200.00
-Salary: $4608.89
-Take-Home Pay: $4117.56
-
-Error : AssertionError - Unable to find a number close enough to 1290.49 (+/-0.00) in the program's output.
-Timestamp: 2024-10-14 21:53:37.976164
+Reason: The federal withholding tax of 1290.49 was found in the program's output.None
+Timestamp: 2024-10-14 21:57:52.554568
 
 Status: PASSED!
 Check: 5
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 21:53:37.976638
+Timestamp: 2024-10-14 21:57:52.554843
