@@ -1,78 +1,58 @@
 
 Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
-    print(f"Take-Home Pay: ${takeHomePay:.2f}")
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:18.932921
-
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
-    print(f"Take-Home Pay: ${takeHomePay:.2f}")
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:18.933071
+Check: 1
+Test: Calculate state withholding tax at 6.5 percent.
+Reason: Unable to find '['81.25']' in the program's output.
+State Tax: $62.50
+Federal Tax: $125.00
+Dependents Deduction: $200.00
+Salary: $1250.00
+Take-Home Pay: $1262.50
+.
+Error : AssertionError - Unable to find a number close enough to 81.25 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 21:53:37.920184
 
 Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
-    print(f"Take-Home Pay: ${takeHomePay:.2f}")
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:19.024726
-
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
-    print(f"Take-Home Pay: ${takeHomePay:.2f}")
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:19.024825
+Check: 2
+Test: Calculate federal withholding tax at 28.0.
+Reason: Unable to find '['350']' in the program's output.
+State Tax: $62.50
+Federal Tax: $125.00
+Dependents Deduction: $200.00
+Salary: $1250.00
+Take-Home Pay: $1262.50
+.
+Error : AssertionError - Unable to find a number close enough to 350 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 21:53:37.936154
 
 Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'Take-Home Pay: ${takeHomePay:.2f}')
-NameError: name 'takeHomePay' is not defined
+Check: 3
+Test: Calculate state withholding tax at 6.5 percent.
+Reason: Unable to find '299.58' in the program's output.
+State Tax: $230.44
+Federal Tax: $460.89
+Dependents Deduction: $200.00
+Salary: $4608.89
+Take-Home Pay: $4117.56
 
-Timestamp: 2024-10-14 21:48:19.102201
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'Take-Home Pay: ${takeHomePay:.2f}')
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:19.102297
+Error : AssertionError - Unable to find a number close enough to 299.58 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 21:53:37.952396
 
 Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'Take-Home Pay: ${takeHomePay:.2f}')
-NameError: name 'takeHomePay' is not defined
+Check: 4
+Test: Calculate state withholding tax at 6.5 percent.
+Reason: Unable to find '1290.49' in the program's output.
+State Tax: $230.44
+Federal Tax: $460.89
+Dependents Deduction: $200.00
+Salary: $4608.89
+Take-Home Pay: $4117.56
 
-Timestamp: 2024-10-14 21:48:19.178653
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'Take-Home Pay: ${takeHomePay:.2f}')
-NameError: name 'takeHomePay' is not defined
-
-Timestamp: 2024-10-14 21:48:19.178737
+Error : AssertionError - Unable to find a number close enough to 1290.49 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 21:53:37.976164
 
 Status: PASSED!
 Check: 5
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 21:48:19.179167
+Timestamp: 2024-10-14 21:53:37.976638
