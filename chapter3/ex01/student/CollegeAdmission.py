@@ -1,36 +1,26 @@
-"""Program Name: CollegeAdmission.py
-   Function: This program determines if a student will be admitted or rejected.
-   Input:  Interactive
-   Output: Accept or Reject
-"""
+# Task 1: Input statements
+test_score = input("Enter student's test score: ")
+class_rank = input("Enter student's class rank: ")
 
-# Get input and convert to correct data type
+# Task 2: Convert input to integers
+test_score = int(test_score)
+class_rank = int(class_rank)
 
-
-
-
-
-# Test using admission requirements and print Accept or Reject
+# Decision making based on test score and class rank
 if test_score >= 90:
-
-	if  class_rank >= 25:
-		print("Accept")
-	else:
-		print("Reject")
-
+    if class_rank >= 25:
+        print("Accept")
+    else:
+        print("Reject")
 elif test_score >= 80:
-
-		if class_rank >= 50:
-			print("Accept")
-		else:
-			print("Reject")
-
+    if class_rank >= 50:
+        print("Accept")
+    else:
+        print("Reject")
 elif test_score >= 70:
-
-			if class_rank >=75:
-				print("Accept")
-			else:
-				print("Reject")
-
+    if class_rank >= 75:
+        print("Accept")
+    else:
+        print("Reject")
 else:
-	print("Reject")
+    print("Reject")
