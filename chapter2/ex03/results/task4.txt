@@ -1,38 +1,39 @@
 
 Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 14, in <module>
-    print(f"State Tax: ${stateTax:.2f}")
-NameError: name 'stateTax' is not defined
-
-Timestamp: 2024-10-14 20:15:33.501785
-
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 14, in <module>
-    print(f"State Tax: ${stateTax:.2f}")
-NameError: name 'stateTax' is not defined
-
-Timestamp: 2024-10-14 20:15:33.501894
+Check: 1
+Test: Calculate take-home pay for a salary of $1250.00
+Reason: Unable to find '['881.25']' in the program's output.
+State Tax: $62.50
+Federal Tax: $125.00
+Dependents Deduction: $200.00
+.
+Error : AssertionError - Unable to find a number close enough to 881.25 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 20:53:25.161873
 
 Status: FAILED!
 Check: 2
 Test: Calculate take-home pay for a salary of $1500.00
-Reason: Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Error : ValueError - Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Timestamp: 2024-10-14 20:15:33.502373
+Reason: Unable to find '1057.50' in the program's output.
+State Tax: $75.00
+Federal Tax: $150.00
+Dependents Deduction: $200.00
+
+Error : AssertionError - Unable to find a number close enough to 1057.50 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 20:53:25.178166
 
 Status: FAILED!
 Check: 3
 Test: Calculate take-home pay for a salary of $2000.00
-Reason: Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Error : ValueError - Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Timestamp: 2024-10-14 20:15:33.502719
+Reason: Unable to find '1410.00' in the program's output.
+State Tax: $100.00
+Federal Tax: $200.00
+Dependents Deduction: $200.00
+
+Error : AssertionError - Unable to find a number close enough to 1410.00 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 20:53:25.194336
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 20:15:33.503057
+Timestamp: 2024-10-14 20:53:25.194683

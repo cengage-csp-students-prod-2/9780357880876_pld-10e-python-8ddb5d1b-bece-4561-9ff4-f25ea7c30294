@@ -1,49 +1,34 @@
 
-Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 14, in <module>
-    print(f"State Tax: ${stateTax:.2f}")
-NameError: name 'stateTax' is not defined
-
-Timestamp: 2024-10-14 20:15:33.203683
+Status: PASSED!
+Check: 1
+Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 2 dependents.
+Reason: The dependent deductions of $62.5 was found in the program's output.None
+Timestamp: 2024-10-14 20:53:25.030883
 
 Status: FAILED!
-Reason: Unable to run Payroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 14, in <module>
-    print(f"State Tax: ${stateTax:.2f}")
-NameError: name 'stateTax' is not defined
+Check: 2
+Test: Calculate dependent deductions at 2.5 percent of the employee’s $1250.00 salary for 4 dependents.
+Reason: '62.5' should not be in the program's output.
+State Tax: $62.50
+Federal Tax: $125.00
+Dependents Deduction: $400.00
 
-Timestamp: 2024-10-14 20:15:33.203832
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'State Tax: ${stateTax:.2f}')
-NameError: name 'stateTax' is not defined
-
-Timestamp: 2024-10-14 20:15:33.315391
-
-Status: FAILED!
-Reason: Unable to run tempPayroll.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
-    print(f'State Tax: ${stateTax:.2f}')
-NameError: name 'stateTax' is not defined
-
-Timestamp: 2024-10-14 20:15:33.315489
+Error : AssertionError - Found '62.5' in the program's output.
+Timestamp: 2024-10-14 20:53:25.047869
 
 Status: FAILED!
 Check: 3
 Test: Calculate dependent deductions at 2.5 percent of the employee’s $4250.75 salary for 3 dependents.
-Reason: Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Error : ValueError - Unable to determine salary type. Type mismatch: Cannot replace Call with str.
-Timestamp: 2024-10-14 20:15:33.317545
+Reason: Unable to find '326.31' in the program's output.
+State Tax: $217.54
+Federal Tax: $435.08
+Dependents Deduction: $300.00
+
+Error : AssertionError - Unable to find a number close enough to 326.31 (+/-0.00) in the program's output.
+Timestamp: 2024-10-14 20:53:25.065451
 
 Status: PASSED!
 Check: 4
 Test: Checking the program for hardcoded answers.
 Reason: None
-Timestamp: 2024-10-14 20:15:33.318126
+Timestamp: 2024-10-14 20:53:25.065823
