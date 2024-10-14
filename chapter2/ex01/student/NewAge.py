@@ -7,6 +7,6 @@
 newAge = 33 + (2050 - 2024)
 
 print(f"My Current Age is {33}")
-print(f"I will be {59} in 2050.")
+print(f"I will be {newAge} in 2050.")
 
 
