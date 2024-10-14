@@ -1,0 +1,60 @@
+
+Status: FAILED!
+Reason: Unable to run Payroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
+    print(f"Take-Home Pay: ${takeHomePay:.2f}")
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.487413
+
+Status: FAILED!
+Reason: Unable to run Payroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Payroll.py", line 25, in <module>
+    print(f"Take-Home Pay: ${takeHomePay:.2f}")
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.487547
+
+Status: FAILED!
+Reason: Unable to run tempPayroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
+    print(f'Take-Home Pay: ${takeHomePay:.2f}')
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.565494
+
+Status: FAILED!
+Reason: Unable to run tempPayroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
+    print(f'Take-Home Pay: ${takeHomePay:.2f}')
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.565579
+
+Status: FAILED!
+Reason: Unable to run tempPayroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
+    print(f'Take-Home Pay: ${takeHomePay:.2f}')
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.644439
+
+Status: FAILED!
+Reason: Unable to run tempPayroll.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/tempPayroll.py", line 10, in <module>
+    print(f'Take-Home Pay: ${takeHomePay:.2f}')
+NameError: name 'takeHomePay' is not defined
+
+Timestamp: 2024-10-14 21:48:19.644543
+
+Status: PASSED!
+Check: 4
+Test: Checking the program for hardcoded answers.
+Reason: None
+Timestamp: 2024-10-14 21:48:19.644954
