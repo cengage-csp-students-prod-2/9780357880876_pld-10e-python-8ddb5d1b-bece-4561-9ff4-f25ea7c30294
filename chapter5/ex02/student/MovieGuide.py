@@ -1,17 +1,19 @@
-# MovieGuide.py - This program allows each theater patron to enter a value from 0 to 4
-# indicating the number of stars that the patron awards to the Guide's featured movie of the
-# week. The program executes continuously until the theater manager enters a negative number to
-# quit. At the end of the program, the average star rating for the movie is displayed.
+# Variable declarations
+total_rating = 0
+count = 0
 
-totalStars = 0  # total of star ratings.
-numPatrons = 0  # keep track of number of patrons
+# Input from the user
+rating = int(input("Enter rating for featured movie (0-4, -1 to quit): "))
 
-# Get input.
+# While loop using a sentinel value
+while rating >= 0:  # Sentinel value is -1
+    total_rating += rating  # Add the rating to the total
+    count += 1  # Increment the count of ratings
+    rating = int(input("Enter rating for featured movie (0-4, -1 to quit): "))  # Get the next rating
 
-# Convert to int.
-
-# Write while loop here
-
-# Calculate average star rating
-
-print("Average Star Value:", averageStars)
+# Calculate and display the average star rating
+if count > 0:  # To avoid division by zero
+    average_rating = total_rating / count
+    print(f"Average Star Value: {average_rating:.3f}")  # Display average to three decimal places
+else:
+    print("No ratings were entered.")
