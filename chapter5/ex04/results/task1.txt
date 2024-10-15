@@ -1,6 +1,0 @@
-
-Status: PASSED!
-Check: 1
-Test: Write the nested loops to control the number of rows and columns.
-Reason: A nested `for...in` or `while` loop. was found in the program output.None
-Timestamp: 2024-10-15 21:19:12.008945
