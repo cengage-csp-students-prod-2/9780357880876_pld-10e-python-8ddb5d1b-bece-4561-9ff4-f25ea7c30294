@@ -1,24 +1,29 @@
-# EmployeeBonus2.py - This program calculates an employee's yearly bonus.
+# Pre-written input statements
+employee_name = input("Enter the employee's name: ")
+employee_salary = float(input("Enter the employee's yearly salary: "))
+performance_rating = int(input("Enter the employee's performance rating (1-4): "))
 
-# initialize variables.
-bonus_1 = .25
-bonus_2 = .15
-bonus_3 = .10
-no_bonus = 0.00
+# Initialize bonus percentage
+bonus_percentage = 0.0
 
-# Get user input.
-employee_name = input("Enter employee's name: ")
-salary_string = input("Enter employee's yearly salary: ")
-rating_string = input("Enter employee's performance rating: ")
+# Task 1: Use match statement to determine bonus percentage
+match performance_rating:
+    case 1:
+        bonus_percentage = 0.25
+    case 2:
+        bonus_percentage = 0.15
+    case 3:
+        bonus_percentage = 0.10
+    case 4:
+        bonus_percentage = 0.0
+    case _:
+        print("Invalid performance rating entered.")
 
-# Convert Strings to int or double.
-employee_salary = float(salary_string)
-employee_rating = int(rating_string)
+# Calculate the bonus
+employee_bonus = employee_salary * bonus_percentage
 
-# Use match statement here to calculate bonus based on rating.
-
-# Output.
-print("Employee Name: ", employee_name)
+# Output the results
+print(f"\nEmployee Name: {employee_name}")
 print(f"Employee Salary: ${employee_salary:.2f}")
-print("Employee Rating: ", employee_rating)
+print(f"Employee Rating: {performance_rating}")
 print(f"Employee Bonus: ${employee_bonus:.2f}")
