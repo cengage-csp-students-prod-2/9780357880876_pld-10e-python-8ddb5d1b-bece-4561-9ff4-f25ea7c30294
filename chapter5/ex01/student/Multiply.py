@@ -1,27 +1,18 @@
-# Multiply.py - This program prints the numbers 0 through 10 along
-# with these values multiplied by 2 and by 10.
-# Input:  None.
-# Output: Prints the numbers 0 through 10 along with their values multiplied by 2 and by 10.
+# Task 1: Initialize the loop control variable
+number = 0
 
-head1 = "Number:"
-head2 = "Multiplied by 2:"
-head3 = "Multiplied by 10:"
+print("0 through 10 multiplied by 2 and by 10.")
 
-# number used to control loop.
-MAX_NUM = 10
-
-print("0 through 10 multiplied by 2 and by 10" + "\n")
-
-# Initialize loop control variable.
-
-# Write your counter controlled while loop here
-
-# Multiply by 2
-
-# Multiply by 10
-
-print(head1, numberCounter)
-print(head2, byTwo)
-print(head3, byTen)
-
-# Next number.
+# Task 1: Write a counter-controlled while loop
+while number <= 10:
+    # Task 2: Multiply the value of the loop control variable
+    multiplied_by_2 = number * 2
+    multiplied_by_10 = number * 10
+    
+    # Display the results
+    print(f"Number: {number}")
+    print(f"Multiplied by 2: {multiplied_by_2}")
+    print(f"Multiplied by 10: {multiplied_by_10}")
+    
+    # Change the value of the loop control variable
+    number += 1  # Increment the variable to avoid an infinite loop
