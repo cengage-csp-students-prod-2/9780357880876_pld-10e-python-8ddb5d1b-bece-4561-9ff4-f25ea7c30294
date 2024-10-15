@@ -2,37 +2,2602 @@
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 45, in <module>
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
     guessing_game()
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 38, in guessing_game
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 39, in guessing_game
     keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:52:46.280115
+Timestamp: 2024-10-15 21:56:22.272917
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
 Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 45, in <module>
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
     guessing_game()
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 38, in guessing_game
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 39, in guessing_game
     keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:52:46.280252
+Timestamp: 2024-10-15 21:56:22.273036
 
 Status: FAILED!
-Check: 2
-Test: The program prompts the user to try again for incorrect input.
-Reason: Unable to find '['Number must be in the range of 1 to 10: Please try again:']' in the program's output.
-Do you want to guess a number? Enter Y or N: I'm thinking of a number...
-Try to guess by entering a number between 1 and 1000: Invalid input. Please enter a number between 1 and 1000: That's not correct. Do you want to guess again? Enter Y or N: Invalid input. Please enter Y or N: .
-Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-15 21:52:46.306513
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.379605
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.379685
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.497046
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.497128
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.615323
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.615421
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.712688
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.712760
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.795055
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.795117
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.877869
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.877961
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.971489
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:22.971549
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.054541
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.054595
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.149010
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.149134
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.256660
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.256729
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.341911
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.342000
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.460460
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.460567
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.548874
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.548946
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.629372
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.629436
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.709917
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.709984
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.789183
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.789233
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.868379
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.868436
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.948232
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:23.948296
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.029744
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.029803
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.110039
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.110091
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.190494
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.190564
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.270827
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.270890
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.351611
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.351671
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.431332
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.431395
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.512277
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.512340
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.592137
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.592191
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.672244
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.672308
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.754875
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.754934
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.834829
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.834884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.914695
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.914765
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.994399
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:24.994452
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.074921
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.075014
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.154644
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.154712
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.235801
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.235867
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.316824
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.316883
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.397060
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.397134
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.477050
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.477108
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.557650
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.557711
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.637531
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.637587
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.717891
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.717950
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.798729
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.798788
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.878312
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.878370
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.958815
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:25.958872
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.038602
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.038652
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.118520
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.118574
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.198544
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.198601
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.279370
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.279439
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.359674
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.359736
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.439911
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.439971
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.520232
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.520293
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.600596
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.600656
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.681142
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.681203
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.762705
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.762785
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.843880
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.843943
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.924805
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:26.924864
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.005523
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.005583
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.085497
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.085556
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.165762
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.165823
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.245825
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.245882
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.327139
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.327211
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.408175
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.408237
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.489798
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.489850
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.570234
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.570299
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.652426
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.652498
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.734283
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.734355
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.815830
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.815898
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.897520
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.897586
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.979273
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:27.979341
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.061015
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.061081
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.142485
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.142551
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.224296
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.224357
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.305494
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.305552
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.385990
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.386057
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.465907
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.465959
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.545756
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.545819
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.625453
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.625523
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.705152
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.705212
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.785556
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.785619
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.865586
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.865657
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.945985
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:28.946046
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.026258
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.026315
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.106790
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.106861
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.186605
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.186664
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.267384
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.267448
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.348271
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.348341
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.428695
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.428753
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.509541
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.509595
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.589557
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.589624
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.669954
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.670011
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.749793
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.749848
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.829398
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.829466
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.908867
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.908925
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.988927
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:29.988986
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.069467
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.069536
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.149433
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.149490
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.228920
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.228973
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.309660
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.309730
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.390185
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.390239
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.470616
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.470680
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.550504
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.550572
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.630160
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.630221
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.711533
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.711601
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.791978
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.792042
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.872204
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.872261
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.952155
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:30.952213
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.033046
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.033118
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.113169
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.113224
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.192839
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.192897
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.272675
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.272739
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.352784
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.352843
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.432648
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.432701
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.512784
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.512843
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.592351
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.592409
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.671905
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.671963
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.753122
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.753182
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.832766
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.832836
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.913137
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 46, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 12, in guessing_game
+    keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-15 21:56:31.913196
 
 Status: FAILED!
 Check: 3
 Test: The program generates a different random number for each run.
 Reason: The correct number does not appear to be random.
 Error : AssertionError - 
-Timestamp: 2024-10-15 21:52:49.603678
+Timestamp: 2024-10-15 21:56:31.913339
