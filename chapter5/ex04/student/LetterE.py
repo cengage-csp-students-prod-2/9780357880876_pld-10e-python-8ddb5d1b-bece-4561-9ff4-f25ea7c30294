@@ -21,4 +21,3 @@ for i in range(rows):
                 print(" ", end="")  # Print space for the middle column
 
     print()  # Move to the next line after finishing a row
-    
