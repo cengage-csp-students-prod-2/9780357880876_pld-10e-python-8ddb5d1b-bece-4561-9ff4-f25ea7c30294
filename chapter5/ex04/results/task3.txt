@@ -1,0 +1,13 @@
+
+Status: FAILED!
+Check: 1
+Test: The program prints the letter E using `*`.
+Reason: Unable to find '['the letter E formatted corrected using `*`.']' in the program's output.
+***
+* *
+***
+* *
+***
+.
+Error : AssertionError - 
+Timestamp: 2024-10-15 20:43:43.654048
