@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: The program can be executed several times to ensuring the random number changes.
 Reason: None
-Timestamp: 2024-10-15 22:16:56.159791
+Timestamp: 2024-10-15 22:18:39.078342
 
 Status: FAILED!
 Check: 2
@@ -17,28 +17,28 @@ Try to guess by entering a number between 1 and 10: That's not correct.
 Do you want to guess again? Enter Y or N: Thank you for playing!
 .
 Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-15 22:16:56.176153
-
-Status: PASSED!
-Check: 3.2
-Test: The program will eventually generate 5 as the correct answer.
-Reason: None
-Timestamp: 2024-10-15 22:16:56.568607
-
-Status: PASSED!
-Check: 3.1
-Test: The program will eventually generate 1 as the correct answer.
-Reason: None
-Timestamp: 2024-10-15 22:16:56.903429
+Timestamp: 2024-10-15 22:18:39.095873
 
 Status: PASSED!
 Check: 3.3
 Test: The program will eventually generate 8 as the correct answer.
 Reason: None
-Timestamp: 2024-10-15 22:16:57.164331
+Timestamp: 2024-10-15 22:18:39.333670
+
+Status: PASSED!
+Check: 3.1
+Test: The program will eventually generate 1 as the correct answer.
+Reason: None
+Timestamp: 2024-10-15 22:18:39.792427
 
 Status: PASSED!
 Check: 3.4
 Test: The program will eventually generate 4 as the correct answer.
 Reason: None
-Timestamp: 2024-10-15 22:16:57.693518
+Timestamp: 2024-10-15 22:18:39.930450
+
+Status: PASSED!
+Check: 3.2
+Test: The program will eventually generate 5 as the correct answer.
+Reason: None
+Timestamp: 2024-10-15 22:18:40.417990
