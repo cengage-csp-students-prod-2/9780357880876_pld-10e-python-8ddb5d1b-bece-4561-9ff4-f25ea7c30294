@@ -6,7 +6,7 @@ from random import randint
 
 def guessing_game():
     while True:  # Loop to allow for multiple rounds of guessing
-        number = randint(1, 10)  # Generate random number between 1 and 10
+        number = randint(1, 10)  # Generate a random number between 1 and 10
 
         # Prime the loop.
         keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
@@ -23,7 +23,7 @@ def guessing_game():
             # Validate user input for guess
             while True:
                 try:
-                    userNumber = int(stringNumber)
+                    userNumber = int(stringNumber)  # Try converting the input to an integer
                     if 1 <= userNumber <= 10:  # Validate the number is in the correct range
                         break  # Valid input, exit loop
                     else:
@@ -43,4 +43,5 @@ def guessing_game():
                     keepGoing = input("Invalid input. Please enter Y or N: ").strip().upper()
 
 # Call the guessing game function to start the game
-guessing_game()
+if __name__ == "__main__":
+    guessing_game()
