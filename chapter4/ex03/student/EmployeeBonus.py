@@ -1,22 +1,22 @@
-# EmployeeBonus.py - This program calculates an employee's productivity bonus.
+# Input statements (pre-written)
+employee_name = input("Employee's first name: ")
+num_shifts = int(input("Number of shifts: "))
+num_transactions = int(input("Number of transactions: "))
+transaction_value = float(input("Transaction dollar value: "))
 
-# initialize variables here.
-bonus_1 = 50.00
-bonus_2 = 75.00
-bonus_3 = 100.00
-bonus_4 = 200.00
+# Task 1: Calculate productivity score
+productivity_score = (transaction_value / num_transactions) / num_shifts
 
-employee_name = input("Enter employee's name: ")
-shift_string = input("Enter number of shifts: ")
-transact_string = input("Enter number of transactions: ")
-dollar_string = input("Enter transactions dollar value: ")
+# Task 2: Determine the bonus using a nested if statement
+if productivity_score <= 30:
+    bonus = 50
+elif 31 <= productivity_score <= 69:
+    bonus = 75
+elif 70 <= productivity_score <= 199:
+    bonus = 100
+else:
+    bonus = 200
 
-num_shifts = float(shift_string)
-num_transactions = float(transact_string)
-dollar_value = float(dollar_string)
-
-# Write your code here
-
-# Output.
-print("Employee Name:", employee_name)
-print(f"Employee Bonus: ${bonus:.2f}")
+# Output (pre-written)
+print(f"Employee Name: {employee_name}")
+print(f"Employee Bonus: ${bonus}")
