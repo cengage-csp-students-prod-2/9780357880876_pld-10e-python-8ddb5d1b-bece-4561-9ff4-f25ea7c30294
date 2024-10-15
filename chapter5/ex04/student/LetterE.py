@@ -16,12 +16,12 @@ for i in range(num_down):
         # Print asterisks in the first, third, and last rows
         elif (i == 0 or i == 2 or i == 4) and j < num_across:
             print("*", end="")
-        # Print a space in the second and fourth rows for the middle column
+        # Print a space in the middle column for second and fourth rows
         elif (i == 1 or i == 3) and j == 1:
             print(" ", end="")
-        # Print an asterisk in the last column for second and fourth rows
+        # Print an asterisk in the last column for the second and fourth rows
         elif (i == 1 or i == 3) and j == 2:
-            print("*", end="")
+            print(" ", end="")
         else:
             print(" ", end="")  # Print space for any other case
 
