@@ -26,11 +26,15 @@ def guessing_game():
 
         # Ask if the user wants to guess again
         while True:
-            keep_going = input("Do you want to guess again? Enter Y or N: ").strip().upper()
-            if keep_going in ('Y', 'N'):
-                break
-            else:
-                print("Invalid input. Please enter Y or N.")
+            try:
+                keep_going = input("Do you want to guess again? Enter Y or N: ").strip().upper()
+                if keep_going in ('Y', 'N'):
+                    break
+                else:
+                    print("Invalid input. Please enter Y or N.")
+            except EOFError:
+                print("No input detected. Exiting the game.")
+                return  # Exit the game gracefully
 
         if keep_going == 'N':
             print("Thank you for playing!")
