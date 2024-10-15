@@ -8,7 +8,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.272917
+Timestamp: 2024-10-15 21:58:30.825083
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -19,7 +19,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.273036
+Timestamp: 2024-10-15 21:58:30.825258
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -30,7 +30,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.379605
+Timestamp: 2024-10-15 21:58:30.938833
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -41,7 +41,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.379685
+Timestamp: 2024-10-15 21:58:30.938945
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -52,7 +52,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.497046
+Timestamp: 2024-10-15 21:58:31.062396
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -63,7 +63,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.497128
+Timestamp: 2024-10-15 21:58:31.062499
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -74,7 +74,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.615323
+Timestamp: 2024-10-15 21:58:31.184384
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -85,7 +85,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.615421
+Timestamp: 2024-10-15 21:58:31.184489
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -96,7 +96,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.712688
+Timestamp: 2024-10-15 21:58:31.305939
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -107,7 +107,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.712760
+Timestamp: 2024-10-15 21:58:31.306010
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -118,7 +118,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.795055
+Timestamp: 2024-10-15 21:58:31.390368
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -129,7 +129,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.795117
+Timestamp: 2024-10-15 21:58:31.390454
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -140,7 +140,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.877869
+Timestamp: 2024-10-15 21:58:31.476205
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -151,7 +151,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.877961
+Timestamp: 2024-10-15 21:58:31.476276
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -162,7 +162,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.971489
+Timestamp: 2024-10-15 21:58:31.561996
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -173,7 +173,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:22.971549
+Timestamp: 2024-10-15 21:58:31.562087
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -184,7 +184,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.054541
+Timestamp: 2024-10-15 21:58:31.672719
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -195,7 +195,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.054595
+Timestamp: 2024-10-15 21:58:31.672810
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -206,7 +206,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.149010
+Timestamp: 2024-10-15 21:58:31.766602
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -217,7 +217,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.149134
+Timestamp: 2024-10-15 21:58:31.766681
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -228,7 +228,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.256660
+Timestamp: 2024-10-15 21:58:31.850071
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -239,7 +239,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.256729
+Timestamp: 2024-10-15 21:58:31.850145
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -250,7 +250,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.341911
+Timestamp: 2024-10-15 21:58:31.945709
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -261,7 +261,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.342000
+Timestamp: 2024-10-15 21:58:31.945812
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -272,7 +272,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.460460
+Timestamp: 2024-10-15 21:58:32.071791
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -283,7 +283,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.460567
+Timestamp: 2024-10-15 21:58:32.071917
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -294,7 +294,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.548874
+Timestamp: 2024-10-15 21:58:32.194751
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -305,7 +305,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.548946
+Timestamp: 2024-10-15 21:58:32.194853
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -316,7 +316,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.629372
+Timestamp: 2024-10-15 21:58:32.320786
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -327,7 +327,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.629436
+Timestamp: 2024-10-15 21:58:32.320893
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -338,7 +338,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.709917
+Timestamp: 2024-10-15 21:58:32.431630
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -349,7 +349,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.709984
+Timestamp: 2024-10-15 21:58:32.431723
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -360,7 +360,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.789183
+Timestamp: 2024-10-15 21:58:32.516190
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -371,7 +371,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.789233
+Timestamp: 2024-10-15 21:58:32.516263
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -382,7 +382,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.868379
+Timestamp: 2024-10-15 21:58:32.599109
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -393,7 +393,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.868436
+Timestamp: 2024-10-15 21:58:32.599182
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -404,7 +404,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.948232
+Timestamp: 2024-10-15 21:58:32.682199
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -415,7 +415,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:23.948296
+Timestamp: 2024-10-15 21:58:32.682281
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -426,7 +426,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.029744
+Timestamp: 2024-10-15 21:58:32.765007
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -437,7 +437,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.029803
+Timestamp: 2024-10-15 21:58:32.765083
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -448,7 +448,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.110039
+Timestamp: 2024-10-15 21:58:32.849331
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -459,7 +459,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.110091
+Timestamp: 2024-10-15 21:58:32.849450
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -470,7 +470,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.190494
+Timestamp: 2024-10-15 21:58:32.933983
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -481,7 +481,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.190564
+Timestamp: 2024-10-15 21:58:32.934082
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -492,7 +492,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.270827
+Timestamp: 2024-10-15 21:58:33.017137
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -503,7 +503,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.270890
+Timestamp: 2024-10-15 21:58:33.017219
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -514,7 +514,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.351611
+Timestamp: 2024-10-15 21:58:33.100081
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -525,7 +525,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.351671
+Timestamp: 2024-10-15 21:58:33.100155
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -536,7 +536,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.431332
+Timestamp: 2024-10-15 21:58:33.183738
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -547,7 +547,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.431395
+Timestamp: 2024-10-15 21:58:33.183822
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -558,7 +558,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.512277
+Timestamp: 2024-10-15 21:58:33.266772
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -569,7 +569,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.512340
+Timestamp: 2024-10-15 21:58:33.266841
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -580,7 +580,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.592137
+Timestamp: 2024-10-15 21:58:33.350832
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -591,7 +591,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.592191
+Timestamp: 2024-10-15 21:58:33.350904
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -602,7 +602,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.672244
+Timestamp: 2024-10-15 21:58:33.432798
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -613,7 +613,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.672308
+Timestamp: 2024-10-15 21:58:33.432878
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -624,7 +624,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.754875
+Timestamp: 2024-10-15 21:58:33.515505
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -635,7 +635,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.754934
+Timestamp: 2024-10-15 21:58:33.515579
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -646,7 +646,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.834829
+Timestamp: 2024-10-15 21:58:33.598392
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -657,7 +657,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.834884
+Timestamp: 2024-10-15 21:58:33.598467
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -668,7 +668,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.914695
+Timestamp: 2024-10-15 21:58:33.682189
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -679,7 +679,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.914765
+Timestamp: 2024-10-15 21:58:33.682268
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -690,7 +690,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.994399
+Timestamp: 2024-10-15 21:58:33.765498
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -701,7 +701,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:24.994452
+Timestamp: 2024-10-15 21:58:33.765572
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -712,7 +712,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.074921
+Timestamp: 2024-10-15 21:58:33.850455
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -723,7 +723,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.075014
+Timestamp: 2024-10-15 21:58:33.850535
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -734,7 +734,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.154644
+Timestamp: 2024-10-15 21:58:33.935666
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -745,7 +745,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.154712
+Timestamp: 2024-10-15 21:58:33.935763
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -756,7 +756,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.235801
+Timestamp: 2024-10-15 21:58:34.020211
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -767,7 +767,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.235867
+Timestamp: 2024-10-15 21:58:34.020283
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -778,7 +778,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.316824
+Timestamp: 2024-10-15 21:58:34.102702
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -789,7 +789,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.316883
+Timestamp: 2024-10-15 21:58:34.102775
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -800,7 +800,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.397060
+Timestamp: 2024-10-15 21:58:34.186434
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -811,7 +811,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.397134
+Timestamp: 2024-10-15 21:58:34.186518
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -822,7 +822,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.477050
+Timestamp: 2024-10-15 21:58:34.271804
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -833,7 +833,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.477108
+Timestamp: 2024-10-15 21:58:34.271888
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -844,7 +844,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.557650
+Timestamp: 2024-10-15 21:58:34.356414
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -855,7 +855,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.557711
+Timestamp: 2024-10-15 21:58:34.356499
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -866,7 +866,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.637531
+Timestamp: 2024-10-15 21:58:34.442145
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -877,7 +877,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.637587
+Timestamp: 2024-10-15 21:58:34.442227
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -888,7 +888,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.717891
+Timestamp: 2024-10-15 21:58:34.527701
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -899,7 +899,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.717950
+Timestamp: 2024-10-15 21:58:34.527780
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -910,7 +910,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.798729
+Timestamp: 2024-10-15 21:58:34.612972
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -921,7 +921,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.798788
+Timestamp: 2024-10-15 21:58:34.613044
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -932,7 +932,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.878312
+Timestamp: 2024-10-15 21:58:34.697991
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -943,7 +943,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.878370
+Timestamp: 2024-10-15 21:58:34.698065
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -954,7 +954,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.958815
+Timestamp: 2024-10-15 21:58:34.784391
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -965,7 +965,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:25.958872
+Timestamp: 2024-10-15 21:58:34.784466
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -976,7 +976,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.038602
+Timestamp: 2024-10-15 21:58:34.867522
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -987,7 +987,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.038652
+Timestamp: 2024-10-15 21:58:34.867590
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -998,7 +998,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.118520
+Timestamp: 2024-10-15 21:58:34.950480
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1009,7 +1009,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.118574
+Timestamp: 2024-10-15 21:58:34.950552
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1020,7 +1020,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.198544
+Timestamp: 2024-10-15 21:58:35.033923
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1031,7 +1031,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.198601
+Timestamp: 2024-10-15 21:58:35.033996
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1042,7 +1042,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.279370
+Timestamp: 2024-10-15 21:58:35.117793
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1053,7 +1053,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.279439
+Timestamp: 2024-10-15 21:58:35.117866
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1064,7 +1064,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.359674
+Timestamp: 2024-10-15 21:58:35.201082
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1075,7 +1075,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.359736
+Timestamp: 2024-10-15 21:58:35.201162
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1086,7 +1086,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.439911
+Timestamp: 2024-10-15 21:58:35.282627
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1097,7 +1097,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.439971
+Timestamp: 2024-10-15 21:58:35.282691
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1108,7 +1108,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.520232
+Timestamp: 2024-10-15 21:58:35.366481
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1119,7 +1119,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.520293
+Timestamp: 2024-10-15 21:58:35.366562
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1130,7 +1130,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.600596
+Timestamp: 2024-10-15 21:58:35.448054
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1141,7 +1141,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.600656
+Timestamp: 2024-10-15 21:58:35.448122
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1152,7 +1152,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.681142
+Timestamp: 2024-10-15 21:58:35.530299
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1163,7 +1163,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.681203
+Timestamp: 2024-10-15 21:58:35.530368
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1174,7 +1174,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.762705
+Timestamp: 2024-10-15 21:58:35.611888
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1185,7 +1185,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.762785
+Timestamp: 2024-10-15 21:58:35.611954
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1196,7 +1196,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.843880
+Timestamp: 2024-10-15 21:58:35.697613
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1207,7 +1207,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.843943
+Timestamp: 2024-10-15 21:58:35.697686
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1218,7 +1218,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.924805
+Timestamp: 2024-10-15 21:58:35.782854
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1229,7 +1229,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:26.924864
+Timestamp: 2024-10-15 21:58:35.782930
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1240,7 +1240,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.005523
+Timestamp: 2024-10-15 21:58:35.865599
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1251,7 +1251,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.005583
+Timestamp: 2024-10-15 21:58:35.865668
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1262,7 +1262,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.085497
+Timestamp: 2024-10-15 21:58:35.950274
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1273,7 +1273,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.085556
+Timestamp: 2024-10-15 21:58:35.950357
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1284,7 +1284,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.165762
+Timestamp: 2024-10-15 21:58:36.032800
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1295,7 +1295,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.165823
+Timestamp: 2024-10-15 21:58:36.032870
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1306,7 +1306,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.245825
+Timestamp: 2024-10-15 21:58:36.115299
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1317,7 +1317,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.245882
+Timestamp: 2024-10-15 21:58:36.115377
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1328,7 +1328,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.327139
+Timestamp: 2024-10-15 21:58:36.198586
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1339,7 +1339,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.327211
+Timestamp: 2024-10-15 21:58:36.198661
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1350,7 +1350,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.408175
+Timestamp: 2024-10-15 21:58:36.282958
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1361,7 +1361,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.408237
+Timestamp: 2024-10-15 21:58:36.283044
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1372,7 +1372,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.489798
+Timestamp: 2024-10-15 21:58:36.367808
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1383,7 +1383,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.489850
+Timestamp: 2024-10-15 21:58:36.367884
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1394,7 +1394,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.570234
+Timestamp: 2024-10-15 21:58:36.452466
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1405,7 +1405,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.570299
+Timestamp: 2024-10-15 21:58:36.452550
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1416,7 +1416,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.652426
+Timestamp: 2024-10-15 21:58:36.536264
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1427,7 +1427,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.652498
+Timestamp: 2024-10-15 21:58:36.536337
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1438,7 +1438,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.734283
+Timestamp: 2024-10-15 21:58:36.618682
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1449,7 +1449,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.734355
+Timestamp: 2024-10-15 21:58:36.618759
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1460,7 +1460,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.815830
+Timestamp: 2024-10-15 21:58:36.701803
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1471,7 +1471,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.815898
+Timestamp: 2024-10-15 21:58:36.701878
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1482,7 +1482,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.897520
+Timestamp: 2024-10-15 21:58:36.785598
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1493,7 +1493,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.897586
+Timestamp: 2024-10-15 21:58:36.785670
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1504,7 +1504,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.979273
+Timestamp: 2024-10-15 21:58:36.869165
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1515,7 +1515,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:27.979341
+Timestamp: 2024-10-15 21:58:36.869234
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1526,7 +1526,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.061015
+Timestamp: 2024-10-15 21:58:36.952014
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1537,7 +1537,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.061081
+Timestamp: 2024-10-15 21:58:36.952082
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1548,7 +1548,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.142485
+Timestamp: 2024-10-15 21:58:37.034740
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1559,7 +1559,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.142551
+Timestamp: 2024-10-15 21:58:37.034812
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1570,7 +1570,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.224296
+Timestamp: 2024-10-15 21:58:37.117489
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1581,7 +1581,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.224357
+Timestamp: 2024-10-15 21:58:37.117562
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1592,7 +1592,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.305494
+Timestamp: 2024-10-15 21:58:37.201557
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1603,7 +1603,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.305552
+Timestamp: 2024-10-15 21:58:37.201642
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1614,7 +1614,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.385990
+Timestamp: 2024-10-15 21:58:37.285569
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1625,7 +1625,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.386057
+Timestamp: 2024-10-15 21:58:37.285649
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1636,7 +1636,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.465907
+Timestamp: 2024-10-15 21:58:37.368569
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1647,7 +1647,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.465959
+Timestamp: 2024-10-15 21:58:37.368637
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1658,7 +1658,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.545756
+Timestamp: 2024-10-15 21:58:37.451005
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1669,7 +1669,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.545819
+Timestamp: 2024-10-15 21:58:37.451073
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1680,7 +1680,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.625453
+Timestamp: 2024-10-15 21:58:37.533466
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1691,7 +1691,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.625523
+Timestamp: 2024-10-15 21:58:37.533546
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1702,7 +1702,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.705152
+Timestamp: 2024-10-15 21:58:37.617245
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1713,7 +1713,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.705212
+Timestamp: 2024-10-15 21:58:37.617317
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1724,7 +1724,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.785556
+Timestamp: 2024-10-15 21:58:37.700087
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1735,7 +1735,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.785619
+Timestamp: 2024-10-15 21:58:37.700157
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1746,7 +1746,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.865586
+Timestamp: 2024-10-15 21:58:37.782796
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1757,7 +1757,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.865657
+Timestamp: 2024-10-15 21:58:37.782876
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1768,7 +1768,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.945985
+Timestamp: 2024-10-15 21:58:37.866038
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1779,7 +1779,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:28.946046
+Timestamp: 2024-10-15 21:58:37.866108
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1790,7 +1790,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.026258
+Timestamp: 2024-10-15 21:58:37.950890
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1801,7 +1801,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.026315
+Timestamp: 2024-10-15 21:58:37.950978
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1812,7 +1812,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.106790
+Timestamp: 2024-10-15 21:58:38.037170
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1823,7 +1823,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.106861
+Timestamp: 2024-10-15 21:58:38.037250
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1834,7 +1834,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.186605
+Timestamp: 2024-10-15 21:58:38.121244
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1845,7 +1845,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.186664
+Timestamp: 2024-10-15 21:58:38.121320
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1856,7 +1856,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.267384
+Timestamp: 2024-10-15 21:58:38.205264
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1867,7 +1867,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.267448
+Timestamp: 2024-10-15 21:58:38.205388
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1878,7 +1878,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.348271
+Timestamp: 2024-10-15 21:58:38.289722
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1889,7 +1889,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.348341
+Timestamp: 2024-10-15 21:58:38.289805
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1900,7 +1900,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.428695
+Timestamp: 2024-10-15 21:58:38.373761
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1911,7 +1911,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.428753
+Timestamp: 2024-10-15 21:58:38.373837
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1922,7 +1922,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.509541
+Timestamp: 2024-10-15 21:58:38.458837
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1933,7 +1933,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.509595
+Timestamp: 2024-10-15 21:58:38.458916
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1944,7 +1944,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.589557
+Timestamp: 2024-10-15 21:58:38.542928
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1955,7 +1955,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.589624
+Timestamp: 2024-10-15 21:58:38.543016
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1966,7 +1966,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.669954
+Timestamp: 2024-10-15 21:58:38.626309
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1977,7 +1977,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.670011
+Timestamp: 2024-10-15 21:58:38.626381
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1988,7 +1988,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.749793
+Timestamp: 2024-10-15 21:58:38.710131
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -1999,7 +1999,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.749848
+Timestamp: 2024-10-15 21:58:38.710202
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2010,7 +2010,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.829398
+Timestamp: 2024-10-15 21:58:38.796206
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2021,7 +2021,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.829466
+Timestamp: 2024-10-15 21:58:38.796289
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2032,7 +2032,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.908867
+Timestamp: 2024-10-15 21:58:38.880938
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2043,7 +2043,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.908925
+Timestamp: 2024-10-15 21:58:38.881019
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2054,7 +2054,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.988927
+Timestamp: 2024-10-15 21:58:38.963836
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2065,7 +2065,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:29.988986
+Timestamp: 2024-10-15 21:58:38.963915
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2076,7 +2076,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.069467
+Timestamp: 2024-10-15 21:58:39.048488
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2087,7 +2087,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.069536
+Timestamp: 2024-10-15 21:58:39.048574
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2098,7 +2098,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.149433
+Timestamp: 2024-10-15 21:58:39.133559
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2109,7 +2109,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.149490
+Timestamp: 2024-10-15 21:58:39.133646
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2120,7 +2120,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.228920
+Timestamp: 2024-10-15 21:58:39.219484
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2131,7 +2131,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.228973
+Timestamp: 2024-10-15 21:58:39.219571
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2142,7 +2142,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.309660
+Timestamp: 2024-10-15 21:58:39.303416
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2153,7 +2153,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.309730
+Timestamp: 2024-10-15 21:58:39.303497
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2164,7 +2164,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.390185
+Timestamp: 2024-10-15 21:58:39.386067
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2175,7 +2175,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.390239
+Timestamp: 2024-10-15 21:58:39.386138
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2186,7 +2186,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.470616
+Timestamp: 2024-10-15 21:58:39.469700
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2197,7 +2197,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.470680
+Timestamp: 2024-10-15 21:58:39.469770
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2208,7 +2208,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.550504
+Timestamp: 2024-10-15 21:58:39.551274
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2219,7 +2219,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.550572
+Timestamp: 2024-10-15 21:58:39.551352
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2230,7 +2230,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.630160
+Timestamp: 2024-10-15 21:58:39.634879
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2241,7 +2241,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.630221
+Timestamp: 2024-10-15 21:58:39.634949
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2252,7 +2252,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.711533
+Timestamp: 2024-10-15 21:58:39.717887
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2263,7 +2263,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.711601
+Timestamp: 2024-10-15 21:58:39.717966
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2274,7 +2274,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.791978
+Timestamp: 2024-10-15 21:58:39.800370
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2285,7 +2285,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.792042
+Timestamp: 2024-10-15 21:58:39.800454
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2296,7 +2296,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.872204
+Timestamp: 2024-10-15 21:58:39.883049
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2307,7 +2307,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.872261
+Timestamp: 2024-10-15 21:58:39.883119
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2318,7 +2318,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.952155
+Timestamp: 2024-10-15 21:58:39.967847
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2329,7 +2329,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:30.952213
+Timestamp: 2024-10-15 21:58:39.967922
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2340,7 +2340,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.033046
+Timestamp: 2024-10-15 21:58:40.050981
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2351,7 +2351,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.033118
+Timestamp: 2024-10-15 21:58:40.051066
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2362,7 +2362,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.113169
+Timestamp: 2024-10-15 21:58:40.134356
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2373,7 +2373,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.113224
+Timestamp: 2024-10-15 21:58:40.134436
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2384,7 +2384,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.192839
+Timestamp: 2024-10-15 21:58:40.218143
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2395,7 +2395,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.192897
+Timestamp: 2024-10-15 21:58:40.218215
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2406,7 +2406,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.272675
+Timestamp: 2024-10-15 21:58:40.302497
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2417,7 +2417,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.272739
+Timestamp: 2024-10-15 21:58:40.302570
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2428,7 +2428,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.352784
+Timestamp: 2024-10-15 21:58:40.385170
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2439,7 +2439,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.352843
+Timestamp: 2024-10-15 21:58:40.385251
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2450,7 +2450,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.432648
+Timestamp: 2024-10-15 21:58:40.469072
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2461,7 +2461,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.432701
+Timestamp: 2024-10-15 21:58:40.469143
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2472,7 +2472,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.512784
+Timestamp: 2024-10-15 21:58:40.551960
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2483,7 +2483,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.512843
+Timestamp: 2024-10-15 21:58:40.552029
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2494,7 +2494,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.592351
+Timestamp: 2024-10-15 21:58:40.637108
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2505,7 +2505,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.592409
+Timestamp: 2024-10-15 21:58:40.637188
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2516,7 +2516,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.671905
+Timestamp: 2024-10-15 21:58:40.721151
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2527,7 +2527,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.671963
+Timestamp: 2024-10-15 21:58:40.721223
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2538,7 +2538,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.753122
+Timestamp: 2024-10-15 21:58:40.804981
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2549,7 +2549,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.753182
+Timestamp: 2024-10-15 21:58:40.805050
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2560,7 +2560,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.832766
+Timestamp: 2024-10-15 21:58:40.887883
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2571,7 +2571,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.832836
+Timestamp: 2024-10-15 21:58:40.887955
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2582,7 +2582,7 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.913137
+Timestamp: 2024-10-15 21:58:40.970377
 
 Status: FAILED!
 Reason: Unable to run GuessNumber.py
@@ -2593,11 +2593,11 @@ Error: Traceback (most recent call last):
     keepGoing = input("Do you want to guess a number? Enter Y or N: ").strip().upper()
 EOFError: EOF when reading a line
 
-Timestamp: 2024-10-15 21:56:31.913196
+Timestamp: 2024-10-15 21:58:40.970445
 
 Status: FAILED!
 Check: 3
 Test: The program generates a different random number for each run.
 Reason: The correct number does not appear to be random.
 Error : AssertionError - 
-Timestamp: 2024-10-15 21:56:31.913339
+Timestamp: 2024-10-15 21:58:40.970596
