@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Implement a match...case statement.
 Reason: 'match(expression):' was found in the program output.None
-Timestamp: 2024-10-15 18:25:39.094363
+Timestamp: 2024-10-15 18:29:15.439042
 
 Status: PASSED!
 Check: 2
 Test: Implement a match...case statement.
 Reason: 'case: condition' was found in the program output.None
-Timestamp: 2024-10-15 18:25:39.094677
+Timestamp: 2024-10-15 18:29:15.439319
