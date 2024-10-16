@@ -21,7 +21,7 @@ min_average = averages[0]
 max_average = averages[0]
 
 # Start out your total initialized to 0.
-total = 0
+total = averages[0]  # Start total with the first batting average.
 
 # Write a loop here to access list values starting with averages[1]
 for i in range(1, size):
@@ -42,6 +42,6 @@ for i in range(size):
     print(f"averages[{i}] is: {averages[i]}")
 
 # Print the maximum batting average, minimum batting average, and average batting average.
-print(f"Minimum batting average is {min_average}")
-print(f"Maximum batting average is {max_average}")
-print(f"Average batting average is {average_of_averages}")
+print(f"Minimum batting average is {min_average:.3f}")
+print(f"Maximum batting average is {max_average:.3f}")
+print(f"Average batting average is {average_of_averages:.3f}")
