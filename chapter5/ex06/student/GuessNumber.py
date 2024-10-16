@@ -1,31 +1,31 @@
-import random
+from random import randint
 
-def guessing_game():
-    while True:
-        # Input validation loop
-        while True:
-            try:
-                number_in = int(input("Try to guess by entering a number between 1 and 10: "))
-                if 1 <= number_in <= 10:
-                    break
-                else:
-                    print("Number must be in the range of 1 to 10: Please try again.")
-            except ValueError:
-                print("Invalid input. Please enter a valid integer.")
+# Function to validate the input number
+def validateNumber(number):
+    if 1 <= number <= 10:  # Include both 1 and 10 in the range
+        return True
+    else:
+        return False
 
-        game_1 = random.randint(1, 10)
+# Generate a random number between 1 and 10
+game_1 = randint(1, 10)
 
-        # Check if the user guessed correctly
+while True:
+    try:
+        # Prompt user for input
+        number_in = int(input("Please insert a number between 1-10: "))
+
+        # Validate the number
+        if not validateNumber(number_in):
+            print("Number must be in the range of 1 to 10: Please try again.")
+            continue  # Go back to the input prompt
+
+        # Check if the guess is correct
         if number_in == game_1:
-            print("You are a genius. That's correct!")
+            print(f"The result was {game_1}. Your guess was correct, congratulations!")
+            break  # Exit the loop after a correct guess
         else:
-            print("That's not correct.")
+            print(f"The result was {game_1}. Your guess was NOT correct. Try again.")
 
-        # Ask if the user wants to play again
-        play_again = input("Do you want to guess again? Enter Y or N: ").strip().upper()
-        if play_again != 'Y':
-            print("Thank you for playing!")
-            break
-
-if __name__ == "__main__":
-    guessing_game()
+    except ValueError:
+        print("Invalid input. Please enter a valid integer between 1 and 10.")
