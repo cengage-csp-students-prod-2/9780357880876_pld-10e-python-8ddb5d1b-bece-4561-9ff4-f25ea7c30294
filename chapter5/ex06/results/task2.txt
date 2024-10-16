@@ -1,45 +1,53 @@
 
-Status: PASSED!
-Check: 1
-Test: The program can be executed several times to ensuring the random number changes.
-Reason: None
-Timestamp: 2024-10-16 16:30:05.127611
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 31, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 25, in guessing_game
+    play_again = input("Do you want to guess again? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:31:50.422603
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 31, in <module>
+    guessing_game()
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 25, in guessing_game
+    play_again = input("Do you want to guess again? Enter Y or N: ").strip().upper()
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:31:50.422699
 
 Status: FAILED!
 Check: 2
 Test: The program prompts the user to try again for incorrect input.
 Reason: Unable to find '['Number must be in the range of 1 to 10: Please try again:']' in the program's output.
-Do you want to guess a number? Enter Y or N: I'm thinking of a number...
+Try to guess by entering a number between 1 and 10: Invalid input. Please enter a valid integer.
 Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
-I'm thinking of a number...
 Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
-I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: You are a genius. That's correct!
-Thank you for playing!
+Try to guess by entering a number between 1 and 10: That's not correct.
+Do you want to guess again? Enter Y or N: Thank you for playing!
 .
 Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-16 16:30:05.145048
-
-Status: PASSED!
-Check: 3.3
-Test: The program will eventually generate 8 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:30:05.386336
-
-Status: PASSED!
-Check: 3.1
-Test: The program will eventually generate 1 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:30:06.673439
+Timestamp: 2024-10-16 16:31:50.443951
 
 Status: PASSED!
 Check: 3.2
 Test: The program will eventually generate 5 as the correct answer.
 Reason: None
-Timestamp: 2024-10-16 16:30:06.814481
+Timestamp: 2024-10-16 16:31:50.514183
+
+Status: PASSED!
+Check: 3.3
+Test: The program will eventually generate 8 as the correct answer.
+Reason: None
+Timestamp: 2024-10-16 16:31:51.193235
 
 Status: PASSED!
 Check: 3.4
 Test: The program will eventually generate 4 as the correct answer.
 Reason: None
-Timestamp: 2024-10-16 16:30:07.034429
+Timestamp: 2024-10-16 16:31:51.808948
