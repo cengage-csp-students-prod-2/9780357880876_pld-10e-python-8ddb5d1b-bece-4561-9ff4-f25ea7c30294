@@ -21,10 +21,10 @@ min_average = averages[0]
 max_average = averages[0]
 
 # Start out your total initialized to 0.
-total = averages[0]  # Start total with the first batting average.
+total = 0
 
-# Write a loop here to access list values starting with averages[1]
-for i in range(1, size):
+# Write a loop here to access list values starting with averages[0]
+for i in range(size):
     # Within the loop, test for minimum and maximum batting averages.
     if averages[i] < min_average:
         min_average = averages[i]
