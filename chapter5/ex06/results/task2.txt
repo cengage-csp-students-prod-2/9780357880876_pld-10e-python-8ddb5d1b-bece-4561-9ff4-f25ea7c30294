@@ -1,38 +1,2131 @@
 
-Status: PASSED!
-Check: 1
-Test: The program can be executed several times to ensuring the random number changes.
-Reason: None
-Timestamp: 2024-10-16 16:16:16.995317
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.566138
 
 Status: FAILED!
-Check: 2
-Test: The program prompts the user to try again for incorrect input.
-Reason: Unable to find '['Number must be in the range of 1 to 10: Please try again:']' in the program's output.
-Do you want to guess a number? Enter Y or N: I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10. Please try again.
-I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10. Please try again.
-I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: That's not correct. Do you want to guess again? Enter Y or N: Thank you for playing!
-.
-Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-16 16:16:17.012504
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
 
-Status: PASSED!
-Check: 3.2
-Test: The program will eventually generate 5 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:16:17.955864
+Timestamp: 2024-10-16 16:29:27.566284
 
-Status: PASSED!
-Check: 3.4
-Test: The program will eventually generate 4 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:16:18.235889
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
 
-Status: PASSED!
-Check: 3.3
-Test: The program will eventually generate 8 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:16:19.345080
+Timestamp: 2024-10-16 16:29:27.674466
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.674571
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.792387
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.792487
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.910652
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:27.910757
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.012884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.012957
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.095099
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.095171
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.180712
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.180786
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.262804
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.262869
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.343966
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.344027
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.436208
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.436303
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.555123
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.555231
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.637102
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.637170
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.718785
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.718849
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.801916
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.801982
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.886302
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.886374
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.967099
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:28.967165
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.048584
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.048655
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.130061
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.130130
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.216172
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.216270
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.308730
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.308794
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.391190
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.391259
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.472034
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.472102
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.554216
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.554279
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.635570
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.635635
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.718707
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.718776
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.800029
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.800107
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.882851
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.882923
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.963842
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:29.963913
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.044588
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.044659
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.125678
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.125747
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.206491
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.206559
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.287152
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.287221
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.368387
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.368454
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.449959
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.450025
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.531386
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.531457
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.611880
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.611943
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.692492
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.692583
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.773390
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.773456
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.854497
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.854564
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.935720
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:30.935787
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.016741
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.016810
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.097756
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.097832
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.179458
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.179535
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.259138
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.259206
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.339114
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.339176
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.420327
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.420401
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.501945
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.502021
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.582932
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.582998
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.664057
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.664127
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.744351
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.744416
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.825737
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.825806
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.907763
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.907835
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.988959
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:31.989045
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.070026
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.070096
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.151053
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.151119
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.231445
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.231507
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.313420
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.313495
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.394973
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.395044
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.475599
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.475663
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.555909
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.555975
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.636902
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.636971
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.718162
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.718232
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.798982
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.799045
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.881089
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.881171
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.963612
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:32.963690
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.045191
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.045272
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.127118
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.127187
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.207906
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.207975
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.289568
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.289639
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.371938
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.372005
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.453659
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.453727
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.535254
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.535333
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.615682
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.615751
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.696817
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.696883
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.777797
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.777866
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.858920
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.858988
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.940480
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:33.940576
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.021491
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.021572
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.102528
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.102597
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.183907
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.183975
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.264822
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.264894
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.346123
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.346193
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.427296
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.427370
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.508295
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.508371
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.588706
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.588772
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.670140
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.670210
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.750440
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.750501
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.832236
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.832303
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.913391
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.913463
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.995140
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:34.995230
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.078363
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.078436
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.159267
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.159332
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.239505
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.239575
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.321993
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.322080
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.404382
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.404449
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.487453
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.487531
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.574560
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.574627
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.656728
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.656799
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.738311
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.738379
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.820896
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.820973
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.904220
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.904295
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.987187
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:35.987269
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.069437
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.069518
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.150887
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.150952
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.232853
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.232921
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.315050
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.315125
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.395993
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.396058
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.477506
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.477585
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.558551
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.558613
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.639641
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.639707
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.720584
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.720653
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.801789
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.801861
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.883215
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.883284
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.963858
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:36.963933
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.044882
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.044963
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.126882
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.126951
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.208245
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.208313
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.288583
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 1
+    mport random
+          ^^^^^^
+SyntaxError: invalid syntax
+
+Timestamp: 2024-10-16 16:29:37.288652
+
+Status: FAILED!
+Check: 3
+Test: The program generates a different random number for each run.
+Reason: The correct number does not appear to be random.
+Error : AssertionError - 
+Timestamp: 2024-10-16 16:29:37.288800
