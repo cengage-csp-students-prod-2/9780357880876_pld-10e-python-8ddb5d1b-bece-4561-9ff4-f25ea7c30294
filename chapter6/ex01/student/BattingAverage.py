@@ -42,6 +42,6 @@ for index in range(len(averages)):
     print(f"averages[{index}] is: {averages[index]}")
 
 # Print the minimum batting average, maximum batting average, and average batting average.
-print(f"[minimum batting average is {min_average:.3f}]")
-print(f"[maximum batting average is {max_average:.3f}]")
-print(f"[average batting average is {average_of_averages:.4f}]")
+print(f"Minimum batting average is {min_average:.3f}")
+print(f"Maximum batting average is {max_average:.3f}")
+print(f"Average batting average is {average_of_averages:.4f}")
