@@ -13,10 +13,10 @@ averages[6] is: 0.27
 averages[7] is: 0.19
 Minimum batting average is 0.157
 Maximum batting average is 0.333
-Average batting average is 0.199125
+Average batting average is 0.236
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:52:25.509510
+Timestamp: 2024-10-16 19:54:42.871013
 
 Status: FAILED!
 Check: 2
@@ -32,10 +32,10 @@ averages[6] is: 0.256
 averages[7] is: 0.201
 Minimum batting average is 0.186
 Maximum batting average is 0.311
-Average batting average is 0.213125
+Average batting average is 0.247
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:52:25.546862
+Timestamp: 2024-10-16 19:54:42.887559
 
 Status: FAILED!
 Check: 3
@@ -51,7 +51,7 @@ averages[6] is: 0.278
 averages[7] is: 0.215
 Minimum batting average is 0.175
 Maximum batting average is 0.321
-Average batting average is 0.21500000000000002
+Average batting average is 0.255
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:52:25.572378
+Timestamp: 2024-10-16 19:54:42.904069
