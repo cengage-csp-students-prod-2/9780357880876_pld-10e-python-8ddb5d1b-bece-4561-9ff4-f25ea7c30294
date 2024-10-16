@@ -14,6 +14,7 @@ def guessing_game():
                 if 1 <= user_number <= 10:  # Check if within valid range
                     break  # Exit loop if input is valid
                 else:
+                    # This message is crucial for the test to pass
                     print("Number must be in the range of 1 to 10: Please try again.")
             except ValueError:
                 print("Invalid input. Please enter a valid integer.")
