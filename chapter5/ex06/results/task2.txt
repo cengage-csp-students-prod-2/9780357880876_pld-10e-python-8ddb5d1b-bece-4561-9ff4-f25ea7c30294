@@ -27,7 +27,7 @@ Try to guess by entering a number between 1 and 10: That's not correct.
 Do you want to guess again? Enter Y or N: No input detected. Exiting the game.
 .
 Error : AssertionError - Unable to find  That's correct! in the program's output.
-Timestamp: 2024-10-16 15:56:02.265688
+Timestamp: 2024-10-16 16:03:30.214311
 
 Status: FAILED!
 Check: 2
@@ -41,28 +41,28 @@ Try to guess by entering a number between 1 and 10: That's not correct.
 Do you want to guess again? Enter Y or N: Thank you for playing!
 .
 Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-16 15:56:02.282540
-
-Status: PASSED!
-Check: 3.4
-Test: The program will eventually generate 4 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 15:56:02.668105
-
-Status: PASSED!
-Check: 3.2
-Test: The program will eventually generate 5 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 15:56:02.923703
+Timestamp: 2024-10-16 16:03:30.230671
 
 Status: PASSED!
 Check: 3.1
 Test: The program will eventually generate 1 as the correct answer.
 Reason: None
-Timestamp: 2024-10-16 15:56:03.794150
+Timestamp: 2024-10-16 16:03:31.309659
+
+Status: PASSED!
+Check: 3.4
+Test: The program will eventually generate 4 as the correct answer.
+Reason: None
+Timestamp: 2024-10-16 16:03:31.644997
+
+Status: PASSED!
+Check: 3.2
+Test: The program will eventually generate 5 as the correct answer.
+Reason: None
+Timestamp: 2024-10-16 16:03:31.671719
 
 Status: PASSED!
 Check: 3.3
 Test: The program will eventually generate 8 as the correct answer.
 Reason: None
-Timestamp: 2024-10-16 15:56:03.931724
+Timestamp: 2024-10-16 16:03:32.022382
