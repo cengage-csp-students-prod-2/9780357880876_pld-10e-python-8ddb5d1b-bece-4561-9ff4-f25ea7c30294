@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: .299, .157, .242, .203, .198, .333, .270, .190
 Reason: None
-Timestamp: 2024-10-16 18:27:24.366567
+Timestamp: 2024-10-16 18:41:22.917064
 
 Status: FAILED!
 Check: 2
@@ -22,7 +22,7 @@ averages[7] is: 0.201
 [average batting average is 0.2466]
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 18:27:24.383350
+Timestamp: 2024-10-16 18:41:22.933322
 
 Status: FAILED!
 Check: 3
@@ -41,4 +41,4 @@ averages[7] is: 0.215
 [average batting average is 0.2551]
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 18:27:24.399818
+Timestamp: 2024-10-16 18:41:22.949572
