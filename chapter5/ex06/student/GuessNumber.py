@@ -1,36 +1,32 @@
-import random
+# GuessNumber.py - This program allows a user to guess a number between 1 and 1000.
+# Input:  User guesses numbers until they get it right.
+# Output: Tells users if they are right or wrong.
 
-def guessing_game():
-    while True:  # Loop for multiple game rounds
-        number_to_guess = random.randint(1, 10)  # Generate a random number between 1 and 10
-        print("I'm thinking of a number...")
+from random import randint
 
-        while True:  # Loop for guessing the number
-            try:
-                # Get user input for guessing
-                guess = int(input("Try to guess by entering a number between 1 and 10: "))
-                if 1 <= guess <= 10:  # Validate guess
-                    break  # Valid guess, exit loop
-                else:
-                    print("Invalid input. Please enter a number between 1 and 10.")
-            except ValueError:
-                print("Invalid input. Please enter a valid integer.")
+number = randint(1, 10) # Generate random number.
 
-        if guess == number_to_guess:
-            print("Congratulations! You've guessed the correct number.")
-        else:
-            print(f"That's not correct. The correct number was {number_to_guess}.")
+# Prime the loop.
+keepGoing = input("Do you want to guess a number? Enter Y or N")
 
-        while True:  # Loop for asking if the user wants to guess again
-            again = input("Do you want to guess again? Enter Y or N: ").strip().upper()
-            if again in ('Y', 'N'):  # Validate the input
-                break  # Valid input, exit loop
-            else:
-                print("Invalid input. Please enter Y or N.")
+# Validate input.
 
-        if again == 'N':
-            print("Thank you for playing!")
-            break  # Exit the main game loop
+# Enter loop if they want to play.
+while keepGoing == "Y":
+    # Get user's guess.
+    stringNumber = input("I'm thinking of a number...\nTry to guess by entering a number between 1 and 10")
+    userNumber = int(stringNumber)
 
-# Call the guessing game function to start the game
-guessing_game()
+    # Validate input.
+
+    # Test to see if the user guessed correctly.
+    if userNumber == number:
+        keepGoing = "N"
+        print("You are a genius. That's correct!")
+
+    else:
+        keepGoing = input("That's not correct. Do you want to guess again? Enter Y or N")
+
+        # Validate input.
+
+# End of while loop.
