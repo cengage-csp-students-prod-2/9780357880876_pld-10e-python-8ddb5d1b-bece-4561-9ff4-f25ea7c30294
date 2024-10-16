@@ -1,44 +1,1925 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: The program can be executed several times to ensuring the random number changes.
-Reason: None
-Timestamp: 2024-10-16 16:32:37.182928
+Reason: Unable to find '[" That's correct!"]' in the program's output.
+Please insert a number between 1-10: Invalid input. Please enter a valid integer between 1 and 10.
+Please insert a number between 1-10: The result was 1. Your guess was correct, congratulations!
+.
+Error : AssertionError - Unable to find  That's correct! in the program's output.
+Timestamp: 2024-10-16 16:40:14.416612
 
 Status: FAILED!
-Check: 2
-Test: The program prompts the user to try again for incorrect input.
-Reason: Unable to find '['Number must be in the range of 1 to 10: Please try again:']' in the program's output.
-Do you want to guess a number? Enter Y or N: I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
-I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
-I'm thinking of a number...
-Try to guess by entering a number between 1 and 10: That's not correct. Do you want to guess again? Enter Y or N: Thank you for playing!
-.
-Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-16 16:32:37.199988
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
 
-Status: PASSED!
-Check: 3.4
-Test: The program will eventually generate 4 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:32:37.318657
+Timestamp: 2024-10-16 16:40:14.495028
 
-Status: PASSED!
-Check: 3.1
-Test: The program will eventually generate 1 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:32:37.528250
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
 
-Status: PASSED!
-Check: 3.3
-Test: The program will eventually generate 8 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:32:37.693336
+Timestamp: 2024-10-16 16:40:14.495119
 
-Status: PASSED!
-Check: 3.2
-Test: The program will eventually generate 5 as the correct answer.
-Reason: None
-Timestamp: 2024-10-16 16:32:37.913559
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.586084
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.586173
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.670440
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.670526
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.809932
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.810016
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.895016
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.895115
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.984987
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:14.985081
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.070495
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.070587
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.156371
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.156459
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.241108
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.241197
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.372367
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.372452
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.475030
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.475120
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.563758
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.563885
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.662653
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.662779
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.777602
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.777696
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.868638
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.868727
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.961758
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:15.961846
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.052052
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.052140
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.164907
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.164991
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.251352
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.251447
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.336076
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.336159
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.426318
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.426403
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.512615
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.512702
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.600718
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.600804
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.686969
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.687069
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.773283
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.773356
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.861157
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.861249
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.948370
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:16.948453
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.033137
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.033220
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.118152
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.118235
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.202611
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.202701
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.288480
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.288565
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.373005
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.373089
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.458651
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.458738
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.544494
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.544579
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.631463
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.631554
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.717996
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.718083
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.802701
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.802788
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.888433
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.888531
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.972543
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:17.972620
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.058183
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.058282
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.143983
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.144075
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.229530
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.229618
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.315854
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.315934
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.400929
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.401012
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.487884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.487978
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.605453
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.605549
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.692747
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.692855
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.807690
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.807783
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.892936
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.893032
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.978746
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:18.978842
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.064463
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.064558
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.151274
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.151380
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.239136
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.239231
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.328772
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.328866
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.415868
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.415963
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.504532
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.504619
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.598487
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.598595
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.684299
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.684389
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.768137
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.768223
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.852446
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.852530
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.937914
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:19.938001
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.023252
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.023346
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.139088
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.139242
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.296018
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.296188
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.397019
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.397133
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.490555
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.490655
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.638165
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.638262
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.720659
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.720730
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.835123
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.835199
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.918628
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:20.918712
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.001420
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.001507
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.084353
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.084426
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.167777
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.167859
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.251396
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.251476
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.334987
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.335063
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.418421
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.418511
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.503552
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.503634
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.588000
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.588086
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.671244
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.671326
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.755107
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.755182
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.838602
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.838680
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.922067
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:21.922150
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.007617
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.007697
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.095945
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.096037
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.183027
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.183123
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.270770
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.270868
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.358110
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.358204
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.444500
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.444592
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.530686
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.530783
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.646776
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.646884
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.733038
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.733136
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.820464
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.820563
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.906729
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.906822
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.994279
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:22.994371
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.078878
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.078980
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.165558
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.165656
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.253890
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.253975
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.338835
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.338920
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.424459
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.424545
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.509398
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.509474
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.595890
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.595965
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.684162
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.684260
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.831565
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.831779
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.962182
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:23.962317
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:24.054318
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:24.054411
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:24.142212
+
+Status: FAILED!
+Reason: Unable to run GuessNumber.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/GuessNumber.py", line 16, in <module>
+    number_in = int(input("Please insert a number between 1-10: "))
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-16 16:40:24.142307
+
+Status: FAILED!
+Check: 3
+Test: The program generates a different random number for each run.
+Reason: The correct number does not appear to be random.
+Error : AssertionError - 
+Timestamp: 2024-10-16 16:40:24.142486
