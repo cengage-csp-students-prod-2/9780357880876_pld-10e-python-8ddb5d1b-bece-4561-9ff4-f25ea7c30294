@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: The program can be executed several times to ensuring the random number changes.
 Reason: None
-Timestamp: 2024-10-15 22:26:05.661523
+Timestamp: 2024-10-16 15:53:31.191085
 
 Status: FAILED!
 Check: 2
@@ -13,32 +13,32 @@ I'm thinking of a number between 1 and 10...
 Try to guess by entering a number between 1 and 10: Invalid input. Please enter a valid integer.
 Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
 Try to guess by entering a number between 1 and 10: Number must be in the range of 1 to 10: Please try again.
-Try to guess by entering a number between 1 and 10: You are a genius. That's correct!
+Try to guess by entering a number between 1 and 10: That's not correct.
 Do you want to guess again? Enter Y or N: Thank you for playing!
 .
 Error : AssertionError - Unable to find Number must be in the range of 1 to 10: Please try again: in the program's output.
-Timestamp: 2024-10-15 22:26:05.677710
+Timestamp: 2024-10-16 15:53:31.207250
 
 Status: PASSED!
 Check: 3.1
 Test: The program will eventually generate 1 as the correct answer.
 Reason: None
-Timestamp: 2024-10-15 22:26:05.983535
+Timestamp: 2024-10-16 15:53:31.354935
 
 Status: PASSED!
 Check: 3.2
 Test: The program will eventually generate 5 as the correct answer.
 Reason: None
-Timestamp: 2024-10-15 22:26:06.017346
-
-Status: PASSED!
-Check: 3.3
-Test: The program will eventually generate 8 as the correct answer.
-Reason: None
-Timestamp: 2024-10-15 22:26:06.097487
+Timestamp: 2024-10-16 15:53:31.880719
 
 Status: PASSED!
 Check: 3.4
 Test: The program will eventually generate 4 as the correct answer.
 Reason: None
-Timestamp: 2024-10-15 22:26:06.475791
+Timestamp: 2024-10-16 15:53:32.194672
+
+Status: PASSED!
+Check: 3.3
+Test: The program will eventually generate 8 as the correct answer.
+Reason: None
+Timestamp: 2024-10-16 15:53:32.457272
