@@ -16,7 +16,7 @@ Maximum batting average is 0.333
 Average batting average is 0.236
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:57:35.860031
+Timestamp: 2024-10-16 19:59:52.723229
 
 Status: FAILED!
 Check: 2
@@ -35,7 +35,7 @@ Maximum batting average is 0.311
 Average batting average is 0.247
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:57:35.876152
+Timestamp: 2024-10-16 19:59:52.739521
 
 Status: FAILED!
 Check: 3
@@ -54,4 +54,4 @@ Maximum batting average is 0.321
 Average batting average is 0.255
 .
 Error : AssertionError - 
-Timestamp: 2024-10-16 19:57:35.892215
+Timestamp: 2024-10-16 19:59:52.755661
