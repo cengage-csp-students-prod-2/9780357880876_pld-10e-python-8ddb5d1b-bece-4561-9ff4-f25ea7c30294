@@ -1,45 +1,36 @@
 import random
 
 def guessing_game():
-    while True:
-        number = random.randint(1, 10)  # Generate a random number between 1 and 10
-        print("I'm thinking of a number between 1 and 10...")
+    while True:  # Loop for multiple game rounds
+        number_to_guess = random.randint(1, 10)  # Generate a random number between 1 and 10
+        print("I'm thinking of a number...")
 
-        while True:
-            user_input = input("Try to guess by entering a number between 1 and 10: ")
-
-            # Validate user input
+        while True:  # Loop for guessing the number
             try:
-                user_number = int(user_input)  # Convert input to integer
-                if 1 <= user_number <= 10:  # Check if within valid range
-                    break  # Exit loop if input is valid
+                # Get user input for guessing
+                guess = int(input("Try to guess by entering a number between 1 and 10: "))
+                if 1 <= guess <= 10:  # Validate guess
+                    break  # Valid guess, exit loop
                 else:
-                    # This message is crucial for the test to pass
-                    print("Number must be in the range of 1 to 10: Please try again.")
+                    print("Invalid input. Please enter a number between 1 and 10.")
             except ValueError:
                 print("Invalid input. Please enter a valid integer.")
 
-        # Check if the user guessed correctly
-        if user_number == number:
-            print("You are a genius. That's correct!")
+        if guess == number_to_guess:
+            print("Congratulations! You've guessed the correct number.")
         else:
-            print("That's not correct.")
+            print(f"That's not correct. The correct number was {number_to_guess}.")
 
-        # Ask if the user wants to guess again
-        while True:
-            try:
-                keep_going = input("Do you want to guess again? Enter Y or N: ").strip().upper()
-                if keep_going in ('Y', 'N'):
-                    break
-                else:
-                    print("Invalid input. Please enter Y or N.")
-            except EOFError:
-                print("No input detected. Exiting the game.")
-                return  # Exit the game gracefully
+        while True:  # Loop for asking if the user wants to guess again
+            again = input("Do you want to guess again? Enter Y or N: ").strip().upper()
+            if again in ('Y', 'N'):  # Validate the input
+                break  # Valid input, exit loop
+            else:
+                print("Invalid input. Please enter Y or N.")
 
-        if keep_going == 'N':
+        if again == 'N':
             print("Thank you for playing!")
-            break  # Exit the game loop
+            break  # Exit the main game loop
 
-if __name__ == "__main__":
-    guessing_game()
+# Call the guessing game function to start the game
+guessing_game()
