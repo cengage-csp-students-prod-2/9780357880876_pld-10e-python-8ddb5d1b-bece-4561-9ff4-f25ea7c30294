@@ -1,0 +1,36 @@
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.376887
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.376966
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.392702
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.392746
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.407787
+
+Status: FAILED!
+Reason: Unable to run BattingAverage.py
+Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
+
+Timestamp: 2024-10-17 23:05:25.407834
