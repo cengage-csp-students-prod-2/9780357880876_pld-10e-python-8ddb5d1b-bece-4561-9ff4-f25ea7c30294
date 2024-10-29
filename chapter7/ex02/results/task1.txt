@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Implement a `while` loop.
+Reason: 'a `while` loop' was found in the program output.None
+Timestamp: 2024-10-29 19:48:23.791885
