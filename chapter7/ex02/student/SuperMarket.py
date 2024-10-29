@@ -37,6 +37,10 @@ else:
 
 # Main loop to process each day's input
 while not done:
+    # Display the current entry for this day
+    print(f"{dayOfWeek}: {hoursWorked}")
+
+    # Prompt for the next day and hours worked
     try:
         dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
     except EOFError:
@@ -45,6 +49,7 @@ while not done:
 
     if dayOfWeek == SENTINEL:
         done = True
+        # Display the last day's total before ending
         print(f"{DAY_FOOTER}: {dailyTotal}")
         hoursTotal += dailyTotal
     else:
@@ -55,15 +60,18 @@ while not done:
             print("\nEnd of input detected. Exiting program.")
             break
 
+        # Control break: Check if the day has changed
         if dayOfWeek != prevDay:
+            # Display the total hours for the previous day
             print(f"{DAY_FOOTER}: {dailyTotal}")
-            hoursTotal += dailyTotal
+            hoursTotal += dailyTotal  # Add to overall total
+
+            # Reset for the new day
             prevDay = dayOfWeek
-            dailyTotal = hoursWorked
+            dailyTotal = hoursWorked  # Start new total for this day
         else:
+            # If the same day, add to the current daily total
             dailyTotal += hoursWorked
 
-        print(f"{dayOfWeek}: {hoursWorked}")
-
-# Display the grand total
+# Display the grand total after all inputs
 print(f"Total hours worked by all employees for the week: {hoursTotal}")
