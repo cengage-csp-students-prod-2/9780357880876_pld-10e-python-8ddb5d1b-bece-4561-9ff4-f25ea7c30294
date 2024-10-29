@@ -7,13 +7,14 @@ Reason: Unable to find '['6']' in the program's output.
 WEEKLY HOURS WORKED
 
 
-Enter day of week or done to quit: Enter hours worked: Enter day of week or done to quit: Enter hours worked: Monday: 2
+Enter day of week or done to quit: Enter hours worked: Monday: 4
+Enter day of week or done to quit: Enter hours worked: Monday: 2
 Enter day of week or done to quit: Enter hours worked: 
 End of input detected. Exiting program.
 Total hours worked by all employees for the week: 0
 .
 Error : AssertionError - Unable to find a number close enough to 6 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:40:11.241780
+Timestamp: 2024-10-29 19:42:45.657179
 
 Status: FAILED!
 Check: 2
@@ -23,7 +24,8 @@ Reason: Unable to find '['8', '7']' in the program's output.
 WEEKLY HOURS WORKED
 
 
-Enter day of week or done to quit: Enter hours worked: Enter day of week or done to quit: Enter hours worked: Monday: 4
+Enter day of week or done to quit: Enter hours worked: Monday: 4
+Enter day of week or done to quit: Enter hours worked: Monday: 4
 Enter day of week or done to quit: Enter hours worked:               Previous Day Total: 8
 Tuesday: 5
 Enter day of week or done to quit: Enter hours worked: Tuesday: 2
@@ -32,10 +34,10 @@ End of input detected. Exiting program.
 Total hours worked by all employees for the week: 8
 .
 Error : AssertionError - Unable to find a number close enough to 7 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:40:11.257604
+Timestamp: 2024-10-29 19:42:45.674075
 
 Status: PASSED!
 Check: 3
 Test: The program accumulates totals and displays the report.
 Reason: None
-Timestamp: 2024-10-29 19:40:11.273193
+Timestamp: 2024-10-29 19:42:45.691179
