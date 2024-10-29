@@ -1,54 +1,41 @@
 
 Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
+Check: 1
+Test: The program accumulates totals and displays the report.
+Reason: Unable to find '['6']' in the program's output.
 
-Timestamp: 2024-10-29 19:23:27.840960
+WEEKLY HOURS WORKED
 
-Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
 
-Timestamp: 2024-10-29 19:23:27.841084
+Enter day of week or done to quit: Enter hours worked: Enter day of week or done to quit: Enter hours worked: Monday: 2
+Enter day of week or done to quit: Enter hours worked: 
+End of input detected. Exiting program.
+Total hours worked by all employees for the week: 0
+.
+Error : AssertionError - Unable to find a number close enough to 6 (+/-0.00) in the program's output.
+Timestamp: 2024-10-29 19:27:56.315537
 
 Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
+Check: 2
+Test: The program accumulates totals and displays the report.
+Reason: Unable to find '['8', '7']' in the program's output.
 
-Timestamp: 2024-10-29 19:23:27.917174
+WEEKLY HOURS WORKED
 
-Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
 
-Timestamp: 2024-10-29 19:23:27.917278
+Enter day of week or done to quit: Enter hours worked: Enter day of week or done to quit: Enter hours worked: Monday: 4
+Enter day of week or done to quit: Enter hours worked:               Previous Day Total: 8
+Tuesday: 5
+Enter day of week or done to quit: Enter hours worked: Tuesday: 2
+Enter day of week or done to quit: Enter hours worked: 
+End of input detected. Exiting program.
+Total hours worked by all employees for the week: 8
+.
+Error : AssertionError - Unable to find a number close enough to 7 (+/-0.00) in the program's output.
+Timestamp: 2024-10-29 19:27:56.331675
 
-Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
-
-Timestamp: 2024-10-29 19:23:27.995765
-
-Status: FAILED!
-Reason: Unable to run SuperMarket.py
-Error: Traceback (most recent call last):
-  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
-    hoursWorkedString = input("Enter hours worked: ")
-EOFError: EOF when reading a line
-
-Timestamp: 2024-10-29 19:23:27.995833
+Status: PASSED!
+Check: 3
+Test: The program accumulates totals and displays the report.
+Reason: None
+Timestamp: 2024-10-29 19:27:56.347416
