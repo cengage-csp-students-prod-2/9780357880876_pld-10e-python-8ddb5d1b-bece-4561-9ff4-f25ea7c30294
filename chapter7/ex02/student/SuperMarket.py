@@ -1,77 +1,89 @@
-# SuperMarket.py - This program creates a report that lists weekly hours worked
-# by employees of a supermarket. The report lists total hours for
-# each day of one week.
-# Input:  Interactive
-# Output: Report.
+// SuperMarket.cpp - This program creates a report that lists weekly hours worked
+// by employees of a supermarket. The report lists total hours for each day of one week.
+// Input: Interactive
+// Output: Report.
 
-# Initialize variables.
-HEAD1 = "WEEKLY HOURS WORKED"
-DAY_FOOTER = "              Previous Day Total"  # Leading spaces are intentional.
-SENTINEL = "done"  # Sentinel value to quit.
-hoursTotal = 0  # Total hours worked across all days.
-dailyTotal = 0  # Hours total for a specific day.
-done = False  # Loop control variable
+#include <iostream>
+#include <string>
+using namespace std;
 
-# Print heading.
-print("\n" + HEAD1 + "\n\n")
+int main()
+{
+    // Declare variables.
+    const string HEAD1 = "WEEKLY HOURS WORKED";
+    const string DAY_FOOTER = "              Day Total: ";
+    const string SENTINEL = "done"; // Sentinel value to quit
 
-# Try to read the first record
-try:
-    dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
-except EOFError:
-    print("\nEnd of input detected. Exiting program.")
-    dayOfWeek = SENTINEL
-    done = True
+    double hoursWorked = 0;       // Hours worked for current input
+    string dayOfWeek;             // Current day of week
+    double dailyTotal = 0;        // Total hours for the current day
+    double weeklyTotal = 0;       // Weekly total hours
+    string prevDay = "";          // Previous day to track day change
+    bool notDone = true;          // Loop control
 
-if dayOfWeek == SENTINEL:
-    done = True
-else:
-    try:
-        hoursWorkedString = input("Enter hours worked: ")
-        hoursWorked = int(hoursWorkedString)
-        prevDay = dayOfWeek
-        dailyTotal = hoursWorked  # Set initial total for the first day
-    except EOFError:
-        print("\nEnd of input detected. Exiting program.")
-        done = True
+    // Print two blank lines.
+    cout << endl << endl;
 
-# Main loop to process each day's input
-while not done:
-    # Display the current entry for this day
-    print(f"{dayOfWeek}: {hoursWorked}")
+    // Print heading.
+    cout << "\t\t\t\t\t" << HEAD1 << endl;
 
-    # Prompt for the next day and hours worked
-    try:
-        dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
-    except EOFError:
-        print("\nEnd of input detected. Exiting program.")
-        dayOfWeek = SENTINEL
+    // Print two blank lines.
+    cout << endl << endl;
 
-    if dayOfWeek == SENTINEL:
-        done = True
-        # Display the last day's total before ending
-        print(f"{DAY_FOOTER}: {dailyTotal}")
-        hoursTotal += dailyTotal
-    else:
-        try:
-            hoursWorkedString = input("Enter hours worked: ")
-            hoursWorked = int(hoursWorkedString)
-        except EOFError:
-            print("\nEnd of input detected. Exiting program.")
-            break
+    // Read first record
+    cout << "Enter day of week or done to quit: ";
+    cin >> dayOfWeek;
 
-        # Control break: Check if the day has changed
-        if dayOfWeek != prevDay:
-            # Display the total hours for the previous day
-            print(f"{DAY_FOOTER}: {dailyTotal}")
-            hoursTotal += dailyTotal  # Add to overall total
+    if (dayOfWeek == SENTINEL)
+        notDone = false;
+    else
+    {
+        cout << "Enter hours worked: ";
+        cin >> hoursWorked;
+        prevDay = dayOfWeek;
+        dailyTotal = hoursWorked;  // Initialize daily total
+    }
 
-            # Reset for the new day
-            prevDay = dayOfWeek
-            dailyTotal = hoursWorked  # Start new total for this day
-        else:
-            # If the same day, add to the current daily total
-            dailyTotal += hoursWorked
+    while (notDone)
+    {
+        cout << "Enter day of week or done to quit: ";
+        cin >> dayOfWeek;
 
-# Display the grand total after all inputs
-print(f"Total hours worked by all employees for the week: {hoursTotal}")
+        if (dayOfWeek == SENTINEL)
+        {
+            notDone = false;
+            // Display total for the last day before quitting
+            cout << DAY_FOOTER << dailyTotal << endl;
+            weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+        }
+        else
+        {
+            cout << "Enter hours worked: ";
+            cin >> hoursWorked;
+
+            // Control break: if the day changes, output the previous day's total
+            if (dayOfWeek != prevDay)
+            {
+                cout << DAY_FOOTER << dailyTotal << endl; // Display previous day total
+                weeklyTotal += dailyTotal;               // Add to weekly total
+
+                // Reset for new day
+                prevDay = dayOfWeek;
+                dailyTotal = hoursWorked;
+            }
+            else
+            {
+                // Same day, accumulate hours
+                dailyTotal += hoursWorked;
+            }
+
+            // Display the current entry
+            cout << dayOfWeek << ": " << hoursWorked << endl;
+        }
+    }
+
+    // Display the grand total
+    cout << "\nTotal hours worked by all employees for the week: " << weeklyTotal << endl;
+
+    return 0;
+} // End of main()
