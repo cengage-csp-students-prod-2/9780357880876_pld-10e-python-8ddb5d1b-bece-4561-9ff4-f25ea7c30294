@@ -1,0 +1,54 @@
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.840960
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.841084
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.917174
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.917278
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.995765
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 47, in <module>
+    hoursWorkedString = input("Enter hours worked: ")
+EOFError: EOF when reading a line
+
+Timestamp: 2024-10-29 19:23:27.995833
