@@ -1,43 +1,54 @@
 
 Status: FAILED!
-Check: 1
-Test: The program accumulates totals and displays the report.
-Reason: Unable to find '['6']' in the program's output.
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
 
-WEEKLY HOURS WORKED
-
-
-Enter day of week or done to quit: Enter hours worked: Monday: 4
-Enter day of week or done to quit: Enter hours worked: Monday: 2
-Enter day of week or done to quit: Enter hours worked: 
-End of input detected. Exiting program.
-Total hours worked by all employees for the week: 0
-.
-Error : AssertionError - Unable to find a number close enough to 6 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:48:23.808034
+Timestamp: 2024-10-29 19:51:37.831572
 
 Status: FAILED!
-Check: 2
-Test: The program accumulates totals and displays the report.
-Reason: Unable to find '['8', '7']' in the program's output.
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
 
-WEEKLY HOURS WORKED
+Timestamp: 2024-10-29 19:51:37.831683
 
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
 
-Enter day of week or done to quit: Enter hours worked: Monday: 4
-Enter day of week or done to quit: Enter hours worked: Monday: 4
-Enter day of week or done to quit: Enter hours worked:               Previous Day Total: 8
-Tuesday: 5
-Enter day of week or done to quit: Enter hours worked: Tuesday: 2
-Enter day of week or done to quit: Enter hours worked: 
-End of input detected. Exiting program.
-Total hours worked by all employees for the week: 8
-.
-Error : AssertionError - Unable to find a number close enough to 7 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:48:23.824181
+Timestamp: 2024-10-29 19:51:37.920587
 
-Status: PASSED!
-Check: 3
-Test: The program accumulates totals and displays the report.
-Reason: None
-Timestamp: 2024-10-29 19:48:23.839941
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
+
+Timestamp: 2024-10-29 19:51:37.920675
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
+
+Timestamp: 2024-10-29 19:51:37.992595
+
+Status: FAILED!
+Reason: Unable to run SuperMarket.py
+Error:   File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/SuperMarket.py", line 57
+    weeklyTotal += dailyTotal;  // Add last day's total to weekly total
+                                               ^
+SyntaxError: unterminated string literal (detected at line 57)
+
+Timestamp: 2024-10-29 19:51:37.992671

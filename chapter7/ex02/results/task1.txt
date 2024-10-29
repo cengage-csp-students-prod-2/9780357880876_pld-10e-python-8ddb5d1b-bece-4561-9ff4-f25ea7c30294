@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Implement a `while` loop.
-Reason: 'a `while` loop' was found in the program output.None
-Timestamp: 2024-10-29 19:48:23.791885
+Reason: Unable to find 'a `while` loop' in the program.
+Error : str - AssertionError
+Timestamp: 2024-10-29 19:51:37.756529
