@@ -7,61 +7,63 @@
 # Initialize variables.
 HEAD1 = "WEEKLY HOURS WORKED"
 DAY_FOOTER = "              Previous Day Total"  # Leading spaces are intentional.
-SENTINEL = "done"  # sentinel value.
+SENTINEL = "done"  # Sentinel value to quit.
 hoursTotal = 0  # Total hours worked across all days.
 dailyTotal = 0  # Hours total for a specific day.
-done = False  # loop control
-
-# Print one blank line.
-print()
+done = False  # Loop control variable
 
 # Print heading.
-print(HEAD1)
+print("\n" + HEAD1 + "\n\n")
 
-# Print two blank lines.
-print()
-print()
-
-# Read the first record
-dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
+# Try to read the first record
+try:
+    dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
+except EOFError:
+    print("\nEnd of input detected. Exiting program.")
+    dayOfWeek = SENTINEL
+    done = True
 
 if dayOfWeek == SENTINEL:
     done = True
 else:
-    hoursWorkedString = input("Enter hours worked: ")
-    hoursWorked = int(hoursWorkedString)
-    prevDay = dayOfWeek
-    dailyTotal = hoursWorked  # Set the initial total for the first day
+    try:
+        hoursWorkedString = input("Enter hours worked: ")
+        hoursWorked = int(hoursWorkedString)
+        prevDay = dayOfWeek
+        dailyTotal = hoursWorked  # Set initial total for the first day
+    except EOFError:
+        print("\nEnd of input detected. Exiting program.")
+        done = True
 
 # Main loop to process each day's input
 while not done:
-    # Prompt for the next day and hours worked
-    dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
+    try:
+        dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
+    except EOFError:
+        print("\nEnd of input detected. Exiting program.")
+        dayOfWeek = SENTINEL
 
     if dayOfWeek == SENTINEL:
         done = True
-        # Display the last day's total before ending
         print(f"{DAY_FOOTER}: {dailyTotal}")
         hoursTotal += dailyTotal
     else:
-        hoursWorkedString = input("Enter hours worked: ")
-        hoursWorked = int(hoursWorkedString)
+        try:
+            hoursWorkedString = input("Enter hours worked: ")
+            hoursWorked = int(hoursWorkedString)
+        except EOFError:
+            print("\nEnd of input detected. Exiting program.")
+            break
 
-        # Control break: Check if the day has changed
         if dayOfWeek != prevDay:
-            # Display the total hours for the previous day
             print(f"{DAY_FOOTER}: {dailyTotal}")
-            hoursTotal += dailyTotal  # Add to overall total
-
-            # Reset for the new day
+            hoursTotal += dailyTotal
             prevDay = dayOfWeek
-            dailyTotal = hoursWorked  # Start new total for this day
+            dailyTotal = hoursWorked
         else:
-            # If the same day, add to the current daily total
             dailyTotal += hoursWorked
 
-        # Display the current entry for this day
         print(f"{dayOfWeek}: {hoursWorked}")
 
-# After exiting the loop, display the grand total
+# Display the grand total
 print(f"Total hours worked by all employees for the week: {hoursTotal}")
