@@ -8,7 +8,8 @@
 HEAD1 = "WEEKLY HOURS WORKED"
 DAY_FOOTER = "              Previous Day Total"  # Leading spaces are intentional.
 SENTINEL = "done"  # sentinel value.
-hoursTotal = 0  # Hours total for a day.
+hoursTotal = 0  # Total hours worked across all days.
+dailyTotal = 0  # Hours total for a specific day.
 done = False  # loop control
 
 # Print one blank line.
@@ -21,20 +22,46 @@ print(HEAD1)
 print()
 print()
 
-# Read first record
-dayOfWeek = input("Enter day of week or done to quit: ")
+# Read the first record
+dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
 
 if dayOfWeek == SENTINEL:
     done = True
-
 else:
     hoursWorkedString = input("Enter hours worked: ")
     hoursWorked = int(hoursWorkedString)
     prevDay = dayOfWeek
+    dailyTotal = hoursWorked  # Set the initial total for the first day
 
+# Main loop to process each day's input
 while not done:
+    # Prompt for the next day and hours worked
+    dayOfWeek = input("Enter day of week or done to quit: ").capitalize()
 
-    # Implement control break logic here
-    # Include work done in the dayChange() method
+    if dayOfWeek == SENTINEL:
+        done = True
+        # Display the last day's total before ending
+        print(f"{DAY_FOOTER}: {dailyTotal}")
+        hoursTotal += dailyTotal
+    else:
+        hoursWorkedString = input("Enter hours worked: ")
+        hoursWorked = int(hoursWorkedString)
 
-print(f"{DAY_FOOTER}: {hoursTotal}")
+        # Control break: Check if the day has changed
+        if dayOfWeek != prevDay:
+            # Display the total hours for the previous day
+            print(f"{DAY_FOOTER}: {dailyTotal}")
+            hoursTotal += dailyTotal  # Add to overall total
+
+            # Reset for the new day
+            prevDay = dayOfWeek
+            dailyTotal = hoursWorked  # Start new total for this day
+        else:
+            # If the same day, add to the current daily total
+            dailyTotal += hoursWorked
+
+        # Display the current entry for this day
+        print(f"{dayOfWeek}: {hoursWorked}")
+
+# After exiting the loop, display the grand total
+print(f"Total hours worked by all employees for the week: {hoursTotal}")
