@@ -13,7 +13,7 @@ End of input detected. Exiting program.
 Total hours worked by all employees for the week: 0
 .
 Error : AssertionError - Unable to find a number close enough to 6 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:37:15.080175
+Timestamp: 2024-10-29 19:40:11.241780
 
 Status: FAILED!
 Check: 2
@@ -32,10 +32,10 @@ End of input detected. Exiting program.
 Total hours worked by all employees for the week: 8
 .
 Error : AssertionError - Unable to find a number close enough to 7 (+/-0.00) in the program's output.
-Timestamp: 2024-10-29 19:37:15.096663
+Timestamp: 2024-10-29 19:40:11.257604
 
 Status: PASSED!
 Check: 3
 Test: The program accumulates totals and displays the report.
 Reason: None
-Timestamp: 2024-10-29 19:37:15.116663
+Timestamp: 2024-10-29 19:40:11.273193
