@@ -11,7 +11,6 @@ third = 0
 # Get user input.
 firstNumber = input("Enter first number: ")
 if firstNumber != "":
-
     secondNumber = input("Enter second number: ")
     thirdNumber = input("Enter third number: ")
 
@@ -20,12 +19,17 @@ if firstNumber != "":
     second = int(secondNumber)
     third = int(thirdNumber)
 
-# Test to see if the first number is greater than the second number.
+    # Test to see if the first number is greater than the second number.
+    if first > second:
+        first, second = second, first  # Swap values
 
-# Test to see if the second number is greater than the third number.
+    # Test to see if the second number is greater than the third number.
+    if second > third:
+        second, third = third, second  # Swap values
 
-# Test to see if the first number is greater than the second number again.
-
+    # Test to see if the first number is greater than the second number again.
+    if first > second:
+        first, second = second, first  # Swap values
 
 # Print values in numerical order.
 print("Smallest:", first)
