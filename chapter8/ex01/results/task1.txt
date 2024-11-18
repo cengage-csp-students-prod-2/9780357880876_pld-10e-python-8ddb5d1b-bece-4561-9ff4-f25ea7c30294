@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: The program correctly sorts 101, 22, and -23
+Reason: None
+Timestamp: 2024-11-18 21:27:50.552841
+
+Status: PASSED!
+Check: 2
+Test: The program correctly sorts 630, 1500, and 9
+Reason: None
+Timestamp: 2024-11-18 21:27:50.568475
+
+Status: PASSED!
+Check: 3
+Test: The program correctly sorts 630, 1500, and 9
+Reason: None
+Timestamp: 2024-11-18 21:27:50.583892
