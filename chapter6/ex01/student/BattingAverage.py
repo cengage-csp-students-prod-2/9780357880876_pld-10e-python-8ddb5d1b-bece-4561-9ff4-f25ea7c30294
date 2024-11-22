@@ -6,7 +6,7 @@ NUM_BATTING_AVERAGES = 8  # Number of batting averages to be entered
 for i in range(NUM_BATTING_AVERAGES):
     while True:
         try:
-            average = float(input(f"Enter a batting average: "))
+            average = float(input("Enter a batting average: "))
             if 0 <= average <= 1:  # Validate that the average is between 0 and 1
                 batting_averages.append(average)
                 break
@@ -24,7 +24,8 @@ min_average = min(batting_averages)
 max_average = max(batting_averages)
 average_of_averages = sum(batting_averages) / len(batting_averages)
 
-# Output the results
-print(f"Minimum batting average is {min_average}")
-print(f"Maximum batting average is {max_average}")
-print(f"Average batting average is {average_of_averages:.4f}")
+# Output the results with explicit labels for clarity
+print("\nSummary of Batting Averages:")
+print(f"Minimum batting average: {min_average}")
+print(f"Maximum batting average: {max_average}")
+print(f"Average batting average: {average_of_averages:.4f}")
