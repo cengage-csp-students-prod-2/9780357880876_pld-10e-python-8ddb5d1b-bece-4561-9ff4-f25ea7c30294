@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: .299, .157, .242, .203, .198, .333, .270, .190
 Reason: None
-Timestamp: 2024-11-22 21:49:59.240828
+Timestamp: 2024-11-22 21:54:50.922047
 
 Status: FAILED!
 Check: 2
@@ -22,7 +22,7 @@ Maximum batting average is 0.311
 Average batting average is 0.2466
 .
 Error : AssertionError - 
-Timestamp: 2024-11-22 21:49:59.257305
+Timestamp: 2024-11-22 21:54:50.939245
 
 Status: FAILED!
 Check: 3
@@ -41,4 +41,4 @@ Maximum batting average is 0.321
 Average batting average is 0.2551
 .
 Error : AssertionError - 
-Timestamp: 2024-11-22 21:49:59.273443
+Timestamp: 2024-11-22 21:54:50.956052
