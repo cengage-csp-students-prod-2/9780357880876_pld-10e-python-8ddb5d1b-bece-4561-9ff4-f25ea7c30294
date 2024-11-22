@@ -1,36 +1,44 @@
 
-Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.301185
-
-Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.301277
+Status: PASSED!
+Check: 1
+Test: .299, .157, .242, .203, .198, .333, .270, .190
+Reason: None
+Timestamp: 2024-11-22 21:35:28.146808
 
 Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.316574
+Check: 2
+Test: .268, .186, .311, .245, .212, .294, .256, .201
+Reason: Unable to find '['minimum batting average, maximum batting average, and average batting average.']' in the program's output.
+Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: averages[0] is: 0.268
+averages[1] is: 0.186
+averages[2] is: 0.311
+averages[3] is: 0.245
+averages[4] is: 0.212
+averages[5] is: 0.294
+averages[6] is: 0.256
+averages[7] is: 0.201
+Minimum batting average is 0.186
+Maximum batting average is 0.311
+Average batting average is 0.2466
+.
+Error : AssertionError - 
+Timestamp: 2024-11-22 21:35:28.162942
 
 Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.316622
-
-Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.332357
-
-Status: FAILED!
-Reason: Unable to run BattingAverage.py
-Error: python: can't open file '/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/BattingAverage.py': [Errno 2] No such file or directory
-
-Timestamp: 2024-11-22 21:32:04.332414
+Check: 3
+Test: .321, .175, .239, .281, .229, .303, .278, .215
+Reason: Unable to find '['minimum batting average, maximum batting average, and average batting average.']' in the program's output.
+Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: Enter a batting average: averages[0] is: 0.321
+averages[1] is: 0.175
+averages[2] is: 0.239
+averages[3] is: 0.281
+averages[4] is: 0.229
+averages[5] is: 0.303
+averages[6] is: 0.278
+averages[7] is: 0.215
+Minimum batting average is 0.175
+Maximum batting average is 0.321
+Average batting average is 0.2551
+.
+Error : AssertionError - 
+Timestamp: 2024-11-22 21:35:28.179033
