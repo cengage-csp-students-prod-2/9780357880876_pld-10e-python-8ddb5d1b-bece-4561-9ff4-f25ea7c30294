@@ -1,31 +1,62 @@
-# Initialize variables
-batting_averages = []  # List to store the batting averages
-NUM_BATTING_AVERAGES = 8  # Number of batting averages to be entered
+# Initialize an integer for list size here.
 
-# Input: Prompt the user to enter 8 batting averages
-for i in range(NUM_BATTING_AVERAGES):
-    while True:
-        try:
-            average = float(input("Enter a batting average: "))
-            if 0 <= average <= 1:  # Validate that the average is between 0 and 1
-                batting_averages.append(average)
-                break
-            else:
-                print("Batting average must be between 0 and 1. Please try again.")
-        except ValueError:
-            print("Invalid input. Please enter a number.")
 
-# Output each batting average with its index
-for i in range(len(batting_averages)):
-    print(f"averages[{i}] is: {batting_averages[i]}")
 
-# Process: Calculate the minimum, maximum, and average batting averages
-min_average = min(batting_averages)
-max_average = max(batting_averages)
-average_of_averages = sum(batting_averages) / len(batting_averages)
+# Initialize list here.
 
-# Output the results with explicit labels for clarity
-print("\nSummary of Batting Averages:")
-print(f"Minimum batting average: {min_average}")
-print(f"Maximum batting average: {max_average}")
-print(f"Average batting average: {average_of_averages:.4f}")
+
+
+# Write a loop to get batting averages from user and add to list.
+
+
+
+    # String version of batting average input by user.
+
+    averageString = input("Enter a batting average: ")
+
+
+    # Use this variable to store the batting average input by user.
+
+    battingAverage = float(averageString)
+
+
+    # add value to list.
+
+
+
+# Use these variables to store the minimim and maximum batting averages.
+
+# Assign the first element in the list to be the minimum and the maximum.
+
+min = averages[0]
+
+max = averages[0]
+
+
+# Start out your total initialized to 0.
+
+total = 0
+
+
+# Write a loop here to access list values starting with averages[1]
+
+
+
+    # Within the loop test for minimum and maximum batting averages.
+
+
+
+    # Also accumulate a total of all batting averages.
+
+
+
+
+# Calculate the average of the 8 averages.
+
+
+
+# Print the averages stored in the averages list.
+
+
+
+# Print the maximum batting average, minimum batting average, and average batting average.
