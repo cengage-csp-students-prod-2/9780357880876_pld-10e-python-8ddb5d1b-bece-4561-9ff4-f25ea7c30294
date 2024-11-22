@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: .299, .157, .242, .203, .198, .333, .270, .190
 Reason: None
-Timestamp: 2024-11-22 22:25:42.610841
+Timestamp: 2024-11-22 22:32:09.465069
 
 Status: FAILED!
 Check: 2
@@ -17,12 +17,13 @@ averages[4] is: 0.212
 averages[5] is: 0.294
 averages[6] is: 0.256
 averages[7] is: 0.201
-Minimum batting average is 0.186
-Maximum batting average is 0.311
-Average batting average is 0.2466
+Results:
+Minimum batting average: 0.186
+Maximum batting average: 0.311
+Average batting average: 0.2466
 .
 Error : AssertionError - 
-Timestamp: 2024-11-22 22:25:42.627055
+Timestamp: 2024-11-22 22:32:09.481391
 
 Status: FAILED!
 Check: 3
@@ -36,9 +37,10 @@ averages[4] is: 0.229
 averages[5] is: 0.303
 averages[6] is: 0.278
 averages[7] is: 0.215
-Minimum batting average is 0.175
-Maximum batting average is 0.321
-Average batting average is 0.2551
+Results:
+Minimum batting average: 0.175
+Maximum batting average: 0.321
+Average batting average: 0.2551
 .
 Error : AssertionError - 
-Timestamp: 2024-11-22 22:25:42.642993
+Timestamp: 2024-11-22 22:32:09.497590
