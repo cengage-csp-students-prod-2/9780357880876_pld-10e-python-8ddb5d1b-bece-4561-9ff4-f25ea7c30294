@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: The `noDiscount()` method displays the correct message.
+Reason: None
+Timestamp: 2024-12-02 20:39:11.787286
