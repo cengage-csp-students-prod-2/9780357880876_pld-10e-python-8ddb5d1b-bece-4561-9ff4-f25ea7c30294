@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The `sums()` method displays the sum of the numbers up to and including 6.
+Reason: None
+Timestamp: 2024-12-04 20:09:13.358056
+
+Status: PASSED!
+Check: 2
+Test: The `sums()` method displays the sum of the numbers up to and including 9.
+Reason: None
+Timestamp: 2024-12-04 20:09:13.358181

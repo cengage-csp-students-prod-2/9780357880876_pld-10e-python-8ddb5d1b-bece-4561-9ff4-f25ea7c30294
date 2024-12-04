@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The `products()` method displays the products of the numbers up to and including 6.
+Reason: None
+Timestamp: 2024-12-04 20:09:13.358268
+
+Status: PASSED!
+Check: 2
+Test: The `products()` method displays the product of the numbers up to and including 9.
+Reason: None
+Timestamp: 2024-12-04 20:09:13.358361
