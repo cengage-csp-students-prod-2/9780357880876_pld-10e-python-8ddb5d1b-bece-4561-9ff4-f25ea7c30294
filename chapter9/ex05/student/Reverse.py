@@ -1,8 +1,9 @@
 # Reverse.py - This program reverses numbers stored in a list.
-# Input:  Interactive.
-# Output:  Original contents of list and the reversed contents of the list.
+# Input: Interactive.
+# Output: Original contents of list and the reversed contents of the list.
 
 def main():
+    # Initialize the list with five numbers
     numbers = [9, 8, 7, 6, 5]
 
     # Print contents of the original list
@@ -10,7 +11,7 @@ def main():
     for number in numbers:
         print(number)
 
-    # Call reverseList function
+    # Call reverseList function to reverse the list
     reverseList(numbers)
 
     # Print contents of the reversed list
@@ -20,9 +21,12 @@ def main():
 
 # End of main() function.
 
-# Write reverseList function here
+# Define the reverseList function
 def reverseList(lst):
-    """Reverses the order of the elements in the provided list."""
+    """
+    Reverses the order of elements in the provided list.
+    This modifies the list in place.
+    """
     lst.reverse()
 
 # End of reverseList function.
