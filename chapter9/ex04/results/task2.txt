@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: The program accepts two numbers and an operand from the user and displays the result.
 Reason: None
-Timestamp: 2024-12-04 20:26:36.333709
+Timestamp: 2024-12-04 20:28:05.530185
 
 Status: PASSED!
 Check: 2
 Test: The program accepts two numbers and an operand from the user and displays the result.
 Reason: None
-Timestamp: 2024-12-04 20:26:36.349206
+Timestamp: 2024-12-04 20:28:05.546078
 
 Status: PASSED!
 Check: 3
 Test: The program accepts two numbers and an operand from the user and displays the result.
 Reason: None
-Timestamp: 2024-12-04 20:26:36.364740
+Timestamp: 2024-12-04 20:28:05.561822
