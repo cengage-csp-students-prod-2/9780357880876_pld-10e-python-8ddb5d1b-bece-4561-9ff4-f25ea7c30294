@@ -3,19 +3,22 @@
 # Output:  Uppercase and lowercase versions of the user-entered string.
 
 def main():
-    sample = input("Enter a string or done when you want to quit.")
+    sample = input("Enter a string or 'done' when you want to quit: ")
 
-    while(sample.compareTo("done") != 0):
-
+    while sample.lower() != "done":
         # Call lower() function here and print the result.
-
-        print("Lowercase: " + result)
+        lower_result = sample.lower()
+        print("Lowercase: " + lower_result)
 
         # Call upper() function here and print the result.
+        upper_result = sample.upper()
+        print("Uppercase: " + upper_result)
 
-        print("Uppercase: " + result)
-        sample = input("Enter a string or done when you want to quit.")
+        # Prompt user again
+        sample = input("Enter a string or 'done' when you want to quit: ")
+
 # End of main() function.
 
 if __name__ == '__main__':
-# Call the main function to run program
+    # Call the main function to run program
+    main()
