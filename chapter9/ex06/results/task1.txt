@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: The program converts input to both upper and lower case.
+Reason: None
+Timestamp: 2024-12-04 23:17:56.581931
+
+Status: PASSED!
+Check: 2
+Test: The program converts input to both upper and lower case.
+Reason: None
+Timestamp: 2024-12-04 23:17:56.597516
