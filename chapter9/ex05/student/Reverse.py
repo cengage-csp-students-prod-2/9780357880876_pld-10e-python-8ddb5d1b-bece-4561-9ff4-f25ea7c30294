@@ -25,7 +25,7 @@ def reverseList(lst):
     """Reverses the order of the elements in the provided list."""
     lst.reverse()
 
-# End of Reverse class.
+# End of reverseList function.
 
 if __name__ == '__main__':
     # Call the main function to run the program
