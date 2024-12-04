@@ -27,7 +27,8 @@ def reverseList(lst):
     Reverses the order of elements in the provided list.
     This modifies the list in place.
     """
-    lst.reverse()
+    # Using slicing to reverse the list
+    lst[:] = lst[::-1]
 
 # End of reverseList function.
 
