@@ -1,26 +1,25 @@
-# Reverse.py - This program reverses numbers stored in an list.
-# Input:  Interactive.
-# Output:  Original contents of list and the reversed contents of the list.
+class NumberList:
+    def __init__(self, numbers):
+        self.numbers = numbers
 
-def main():
+    def reverselist(self):
+        self.numbers.reverse()  # Reverse the list in place
 
-    numbers = [9, 8, 7, 6, 5]
+    def display(self):
+        for number in self.numbers:
+            print(number)
 
-    # Print contents of list
+# Example usage
+if __name__ == "__main__":
+    # Original list
+    original_list = [9, 8, 7, 6, 5]
+    
+    print("Original contents of list:")
+    num_list = NumberList(original_list)
+    num_list.display()
 
+    # Reverse the list
+    num_list.reverselist()
 
-    # Call reverseList function here
-
-
-    # Print contents of reversed list
-
-# End of main() function.
-
-
-# Write reverseList function here.
-
-
-# End of Reverse class.
-
-if __name__ == '__main__':
-# Call the main function to run program
+    print("\nReversed contents of list:")
+    num_list.display()
