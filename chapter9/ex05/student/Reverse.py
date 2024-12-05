@@ -12,13 +12,15 @@ def reverseArray(numbers):
 # Array of numbers
 numbers = [9, 8, 7, 6, 5]
 
-# Print contents of array.
-print("Original contents of array:")
-print(numbers)
+# Print contents of the original list.
+print("Original contents of list:")
+for number in numbers:
+    print(number)
 
 # Call reverseArray function here.
 reverseArray(numbers)
 
-# Print contents of reversed array.
-print("Reversed contents of array:")
-print(numbers)
+# Print contents of the reversed list.
+print("\nReversed contents of list:")
+for number in numbers:
+    print(number)
