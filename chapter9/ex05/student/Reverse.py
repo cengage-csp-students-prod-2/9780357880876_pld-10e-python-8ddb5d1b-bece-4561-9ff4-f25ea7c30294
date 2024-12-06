@@ -1,26 +1,34 @@
-"""
-Reverse.py - This program reverses numbers stored in an array.
-Input: Interactive.
-Output: Original contents of array and the reversed contents of the array.
-"""
+# Reverse.py - This program reverses numbers stored in a list.
+# Input:  Interactive.
+# Output:  Original contents of list and the reversed contents of the list.
 
-# Write reverseArray function here.
-def reverseArray(numbers):
-    # Reverse the array in place
+def main():
+    # Initialize the list
+    numbers = [9, 8, 7, 6, 5]
+
+    # Print contents of the original list
+    print("Original contents of list:")
+    for number in numbers:
+        print(number)
+
+    # Call reverseList function here
+    reverseList(numbers)
+
+    # Print contents of the reversed list
+    print("\nReversed contents of list:")
+    for number in numbers:
+        print(number)
+
+# End of main() function.
+
+
+# Write reverseList function here.
+def reverseList(numbers):
+    # Reverse the list in place
     numbers.reverse()
 
-# Array of numbers
-numbers = [9, 8, 7, 6, 5]
+# End of Reverse class.
 
-# Print contents of the original list.
-print("Original contents of list:")
-for number in numbers:
-    print(number)
-
-# Call reverseArray function here.
-reverseArray(numbers)
-
-# Print contents of the reversed list.
-print("\nReversed contents of list:")
-for number in numbers:
-    print(number)
+if __name__ == '__main__':
+    # Call the main function to run the program
+    main()
