@@ -3,44 +3,88 @@ Status: PASSED!
 Check: 1
 Test: Write `while` loop to read input until EOF.
 Reason: '`while` loop' was found in the program output.None
-Timestamp: 2024-12-09 22:35:30.334577
+Timestamp: 2024-12-09 22:37:10.573655
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Print the name of each flower and where it can be grown.
-Reason: Unable to find '['Astilbe is grown in the Shade']' in the program's output.
-Invalid line format: Astilbe
-Invalid line format: Shade
-Invalid line format: Marigold
-Invalid line format: Sun
-Invalid line format: Begonia
-Invalid line format: Sun
-Invalid line format: Primrose
-Invalid line format: Shade
-Invalid line format: Cosmos
-Invalid line format: Sun
-Invalid line format: Dahlia
-Invalid line format: Sun
-Invalid line format: Geranium
-Invalid line format: Sun
-Invalid line format: Foxglove
-Invalid line format: Shade
-Invalid line format: Trillium
-Invalid line format: Shade
-Invalid line format: Pansy
-Invalid line format: Sun
-Invalid line format: Petunia
-Invalid line format: Sun
-Invalid line format: Daisy
-Invalid line format: Sun
-Invalid line format: Aster
-Invalid line format: Sun
-.
-Error : AssertionError - 
-Timestamp: 2024-12-09 22:35:30.350312
+Reason: None
+Timestamp: 2024-12-09 22:37:10.589300
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.604673
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.620215
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.636434
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.651728
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.667011
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.682251
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.697494
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.712677
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.728209
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.743637
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.759080
+
+Status: PASSED!
+Check: 2
+Test: Print the name of each flower and where it can be grown.
+Reason: None
+Timestamp: 2024-12-09 22:37:10.774485
 
 Status: PASSED!
 Check: 3
 Test: flowers.dat values were not hard-coded into the program.
 Reason: None
-Timestamp: 2024-12-09 22:35:30.351083
+Timestamp: 2024-12-09 22:37:10.774957
