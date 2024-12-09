@@ -1,0 +1,30 @@
+
+Status: PASSED!
+Check: 1
+Test: Write `while` loop to read input until EOF.
+Reason: '`while` loop' was found in the program output.None
+Timestamp: 2024-12-09 22:34:06.993935
+
+Status: FAILED!
+Reason: Unable to run Flowers.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Flowers.py", line 15, in <module>
+    flower, condition = line.strip().split(",")  # Assuming comma-separated values.
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Timestamp: 2024-12-09 22:34:07.066843
+
+Status: FAILED!
+Reason: Unable to run Flowers.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/9780357880876_pld-10e-python-8ddb5d1b-bece-4561-9ff4-f25ea7c30294/Flowers.py", line 15, in <module>
+    flower, condition = line.strip().split(",")  # Assuming comma-separated values.
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Timestamp: 2024-12-09 22:34:07.066904
+
+Status: PASSED!
+Check: 3
+Test: flowers.dat values were not hard-coded into the program.
+Reason: None
+Timestamp: 2024-12-09 22:34:07.067784

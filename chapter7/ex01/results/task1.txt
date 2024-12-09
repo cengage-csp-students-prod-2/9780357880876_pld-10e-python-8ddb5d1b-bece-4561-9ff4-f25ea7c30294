@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Write the Python statement to open the flowers.dat file.
+Reason: Unable to find 'with...open...as' in the program.
+Error : str - AssertionError
+Timestamp: 2024-12-09 22:34:06.993470

@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Write a priming read statement.
+Reason: '.readline()' was found in the program output.None
+Timestamp: 2024-12-09 22:34:06.993729
